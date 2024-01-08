@@ -6,6 +6,7 @@ class Option:
     alpha: str
     text: str
     is_correct: str
+    explanation: str
 
 
 @dataclass(kw_only=True)
@@ -28,17 +29,3 @@ class Question:
         for option in self.options:
             if option.is_correct:
                 return option
-
-
-def save_question(question: Question):
-    """
-    Save a question to the database.
-    """
-    print(f"Saving question: {question}")
-
-
-def load_local_question():
-    """
-    Load a question from the local file system.
-    """
-    print("Loading local question")

@@ -3,28 +3,48 @@ import os
 
 client = None
 
+
 def connect():
     global client
     client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-def ask_question(question: str):
+
+discussion = []
+
+
+def ask_question(question: str = None, response: str = None):
     if client:
-        if len(question) == 0:
-            return "Please ask a question."
-        
+        if response:
+            discussion.append(
+                {
+                    "role": "assistant",
+                    "content": response,
+                }
+            )
+        if question:
+            discussion.append(
+                {
+                    "role": "user",
+                    "content": question,
+                }
+            )
+        else:
+            discussion.append(
+                {
+                    "role": "user",
+                    "content": get_context(),
+                }
+            )
         chat_completion = client.chat.completions.create(
-        messages=[
-            {
-                "role": "user",
-                "content": question,
-            }
-        ],
-        model="gpt-3.5-turbo")
-        
+            messages=discussion,
+            model="gpt-3.5-turbo",
+        )
+
         return chat_completion
     else:
         raise Exception("OpenAI client not initialized")
-    
+
 
 def get_context():
-    return "This is a context"
+    with open("src/context.txt", "r") as f:
+        return f.read()

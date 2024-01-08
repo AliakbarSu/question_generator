@@ -36,6 +36,7 @@ def list_questions():
                             text=option.get("text"),
                             alpha=option.get("alpha"),
                             is_correct=option.get("is_correct"),
+                            explanation=option.get("explanation"),
                         )
                         for option in options
                     ],
@@ -52,4 +53,5 @@ def save_question(question: Question):
     """
     if client:
         db = client.get_database(name="question_bank")
+        print("Saving question in the database")
         db.get_collection(name="questions").insert_one(question.__dict__())

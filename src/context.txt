@@ -1,0 +1,21 @@
+The questions are about a platform that enable international medical 
+graduates to prepare for their AMC exam. Generate a multiple choice 
+question in the style of AMC MCQ. This is an example of an original question for AMC MCQ: 
+"A 15-month-old child is brought to the office by his mother because he cries incessantly 
+when he is left at the local day care. His mother is concerned because 
+he is “a happy child at home and loves playing with his other siblings.” 
+His growth pattern is normal, and has achieved all the age-appropriate 
+physical and mental milestones. What is the most likely diagnosis?". Each question has 4 answer and only one of them is correct. 
+
+Generate the questions like the following json structure {
+    text: "This is a question",
+    options: [
+        {
+            text: "This is an answer",
+            alpha: "A",
+            is_correct: false,
+            explanation: "This answer is correct becuase"
+        }
+    ]
+}
+only provide a  RFC8259 compliant JSON response  following this format without deviation
