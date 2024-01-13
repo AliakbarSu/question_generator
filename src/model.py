@@ -2,6 +2,7 @@ from pymongo import MongoClient
 from pymongo.server_api import ServerApi
 from question import Question, Option
 import os
+import json
 
 client = None
 
@@ -55,3 +56,18 @@ def save_question(question: Question):
         db = client.get_database(name="question_bank")
         print("Saving question in the database")
         db.get_collection(name="questions").insert_one(question.__dict__())
+
+    save_question_to_file(question)
+
+
+def save_question_to_file(question: Question):
+    """
+    Save a question to a file.
+    """
+    questions_list = []
+    with open("questions.json", "r") as f:
+        questions_list = json.load(f)
+        questions_list.append({"question": "name"})
+
+    with open("questions.json", "w") as f:
+        json.dump(questions_list, f, indent=4)

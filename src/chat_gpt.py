@@ -46,5 +46,5 @@ def ask_question(question: str = None, response: str = None):
 
 
 def get_context():
-    with open("src/context.txt", "r") as f:
+    with open("context.txt", "r") as f:
         return f.read()
