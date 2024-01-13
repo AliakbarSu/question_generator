@@ -1,12 +1,17 @@
 from dataclasses import dataclass, field
+import uuid
 
 
 @dataclass(kw_only=True)
 class Option:
+    id: str = field(init=False)
     alpha: str
     text: str
     is_correct: str
     explanation: str
+
+    def __post_init__(self):
+        self.id = str(uuid.uuid4())
 
 
 @dataclass(kw_only=True)

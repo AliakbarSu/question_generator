@@ -24,7 +24,7 @@ def list_questions():
     List all questions in the database.
     """
     if client:
-        db = client.get_database(name="question_bank")
+        db = client.get_database(name="Questions")
         questions = db.get_collection(name="questions").find()
         questions_list: list[Question] = []
         for question in questions:
@@ -67,7 +67,7 @@ def save_question_to_file(question: Question):
     questions_list = []
     with open("questions.json", "r") as f:
         questions_list = json.load(f)
-        questions_list.append({"question": "name"})
+        questions_list.append(question.__dict__())
 
     with open("questions.json", "w") as f:
         json.dump(questions_list, f, indent=4)
