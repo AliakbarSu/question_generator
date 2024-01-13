@@ -16,6 +16,7 @@ class Option:
 
 @dataclass(kw_only=True)
 class Question:
+    uuid: str = field(init=False)
     text: str
     options: list[Option]
     correct_option: Option = field(init=False)
@@ -29,6 +30,7 @@ class Question:
 
     def __post_init__(self):
         self.correct_option = self.get_correct_option()
+        self.uuid = str(uuid.uuid4())
 
     def get_correct_option(self):
         for option in self.options:

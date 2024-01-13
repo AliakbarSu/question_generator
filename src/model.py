@@ -53,7 +53,7 @@ def save_question(question: Question):
     Save a question to the database.
     """
     if client:
-        db = client.get_database(name="question_bank")
+        db = client.get_database(name="Questions")
         print("Saving question in the database")
         db.get_collection(name="questions").insert_one(question.__dict__())
 
