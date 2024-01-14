@@ -18,6 +18,7 @@ class Option:
 class Question:
     uuid: str = field(init=False)
     text: str
+    type: str
     options: list[Option]
     correct_option: Option = field(init=False)
 

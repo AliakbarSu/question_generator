@@ -85,6 +85,7 @@ def parse_question(question: str):
     )
     question = Question(
         text=question_json.get("text"),
+        type="amc",
         options=[option1, option2, option3, option4],
     )
     return question
