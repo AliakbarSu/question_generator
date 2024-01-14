@@ -26,6 +26,7 @@ class Question:
         return {
             "text": self.text,
             "options": [option.__dict__ for option in self.options],
+            "type": self.type,
             "correct_option": self.correct_option.__dict__,
         }
 
