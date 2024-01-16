@@ -33,6 +33,7 @@ def list_questions():
                 Question(
                     text=question.get("text"),
                     type=question.get("type"),
+                    field=question.get("field"),
                     options=[
                         Option(
                             text=option.get("text"),

@@ -10,6 +10,7 @@ physical and mental milestones. What is the most likely diagnosis?",
 
 Generate the questions like the following json structure {
     text: "This is a question",
+    field: "Surgery",
     options: [
         {
             text: "This is an answer",

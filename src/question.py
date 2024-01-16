@@ -19,6 +19,7 @@ class Question:
     uuid: str = field(init=False)
     text: str
     type: str
+    field: str
     options: list[Option]
     correct_option: Option = field(init=False)
 
@@ -27,6 +28,7 @@ class Question:
             "text": self.text,
             "options": [option.__dict__ for option in self.options],
             "type": self.type,
+            "field": self.field,
             "correct_option": self.correct_option.__dict__,
         }
 
