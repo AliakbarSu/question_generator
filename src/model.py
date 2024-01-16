@@ -32,6 +32,7 @@ def list_questions():
             questions_list.append(
                 Question(
                     text=question.get("text"),
+                    type=question.get("type"),
                     options=[
                         Option(
                             text=option.get("text"),
