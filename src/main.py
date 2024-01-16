@@ -48,7 +48,8 @@ def main():
             save_question(parsed_question)
             cprint("Question saved", "blue")
         elif user_answer == "list":
-            cprint(list_questions(), "green", "on_white")
+            for question in list_questions():
+                cprint(question.__dict__(), "green", "on_white")
             user_answer = interface()
 
 
