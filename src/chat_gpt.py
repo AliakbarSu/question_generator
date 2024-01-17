@@ -1,5 +1,6 @@
 from openai import OpenAI
 import os
+import json
 
 client = None
 
@@ -45,6 +46,17 @@ def ask_question(question: str = None, response: str = None):
         raise Exception("OpenAI client not initialized")
 
 
+def get_existing_questions():
+    with open("questions.json", "r") as f:
+        questions_list = json.load(f)
+        question_string = ", ".join(
+            [f"\"{questions_list['text']}\"" for questions_list in questions_list][0:10]
+        )
+        return question_string
+
+
 def get_context():
+    existing_questions = get_existing_questions()
     with open("context.txt", "r") as f:
-        return f.read()
+        context = f.read()
+        return f"{context}. The following questions have already been generated {existing_questions}"
