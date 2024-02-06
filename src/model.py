@@ -1,8 +1,10 @@
+import json
+import os
+
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
+
 from question import Question, Option
-import os
-import json
 
 client = None
 

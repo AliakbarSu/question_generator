@@ -1,1 +1,2572 @@
-[]
+[
+    {
+        "text": "A 35-year-old woman presents to the clinic with excessive thirst, frequent urination, and unexplained weight loss. She has a family history of type 1 diabetes. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Type 1 diabetes",
+                "is_correct": true,
+                "explanation": "The patient's symptoms of excessive thirst, frequent urination, and unexplained weight loss are indicative of diabetes. Given the family history of type 1 diabetes, it is most likely that she has developed type 1 diabetes as well. Testing for blood glucose levels and further evaluation will confirm the diagnosis.",
+                "id": "5f600d38-9387-484f-b27a-110b9b813595"
+            },
+            {
+                "alpha": "B",
+                "text": "Type 2 diabetes",
+                "is_correct": false,
+                "explanation": "Although type 2 diabetes can present with similar symptoms, the family history of type 1 diabetes makes it more likely that the patient has developed type 1 diabetes. Further evaluation is necessary to confirm the diagnosis.",
+                "id": "b0d5cabf-5caa-47dc-a39c-6e2c42ac4ae9"
+            },
+            {
+                "alpha": "C",
+                "text": "Gestational diabetes",
+                "is_correct": false,
+                "explanation": "Gestational diabetes occurs during pregnancy and typically resolves after childbirth. It is unlikely to be the cause of the patient's symptoms, especially considering her family history of type 1 diabetes. Additional evaluation is required to confirm the diagnosis.",
+                "id": "c626e3b0-fb5a-4c06-a1f4-3468308a6560"
+            },
+            {
+                "alpha": "D",
+                "text": "Insulinoma",
+                "is_correct": false,
+                "explanation": "Insulinoma is a rare pancreatic tumor that secretes excessive insulin, leading to hypoglycemia. The patient's symptoms, including excessive thirst, frequent urination, and weight loss, are more indicative of hyperglycemia associated with diabetes rather than hypoglycemia. Further evaluation is necessary to determine the exact cause of her symptoms.",
+                "id": "2400009c-3e9b-41fe-a070-cf537368625a"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Type 1 diabetes",
+            "is_correct": true,
+            "explanation": "The patient's symptoms of excessive thirst, frequent urination, and unexplained weight loss are indicative of diabetes. Given the family history of type 1 diabetes, it is most likely that she has developed type 1 diabetes as well. Testing for blood glucose levels and further evaluation will confirm the diagnosis.",
+            "id": "5f600d38-9387-484f-b27a-110b9b813595"
+        }
+    },
+    {
+        "text": "A 45-year-old male presents with sudden onset severe chest pain radiating to his left arm, along with shortness of breath and diaphoresis. He reports a history of smoking and high cholesterol. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute myocardial infarction",
+                "is_correct": true,
+                "explanation": "The patient's symptoms of sudden onset severe chest pain radiating to the left arm, along with shortness of breath and diaphoresis, are highly suggestive of an acute myocardial infarction. Given his history of smoking and high cholesterol, he is at increased risk for coronary artery disease. Immediate intervention is required to restore blood flow and preserve cardiac function.",
+                "id": "cd4fabfa-fb3c-46e2-9382-f946917860a4"
+            },
+            {
+                "alpha": "B",
+                "text": "Gastroesophageal reflux disease (GERD)",
+                "is_correct": false,
+                "explanation": "GERD typically presents with heartburn, regurgitation, and discomfort in the upper abdomen. The patient's symptoms of sudden onset severe chest pain, shortness of breath, and diaphoresis are more indicative of a cardiovascular event rather than GERD. Further evaluation is necessary to determine the exact cause of his symptoms.",
+                "id": "268cbf3b-9dd8-4b8e-a5c7-73d45adb8f0f"
+            },
+            {
+                "alpha": "C",
+                "text": "Pneumothorax",
+                "is_correct": false,
+                "explanation": "Pneumothorax presents with sudden onset chest pain, usually localized to one side of the chest, along with shortness of breath. However, the radiation of pain to the left arm and diaphoresis are not typical of pneumothorax. Additional evaluation is necessary to determine the underlying cause of his symptoms.",
+                "id": "17e2df94-3299-4bf8-8d5d-8bb18bf6025b"
+            },
+            {
+                "alpha": "D",
+                "text": "Esophageal spasm",
+                "is_correct": false,
+                "explanation": "Esophageal spasm can cause chest pain, usually retrosternal, but typically does not cause radiation of pain to the left arm or associated symptoms such as shortness of breath and diaphoresis. Given the patient's high-risk factors for coronary artery disease, prompt evaluation for a cardiac event should be pursued.",
+                "id": "ceba29d2-ac87-46b1-a8c3-a3302c621f21"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Acute myocardial infarction",
+            "is_correct": true,
+            "explanation": "The patient's symptoms of sudden onset severe chest pain radiating to the left arm, along with shortness of breath and diaphoresis, are highly suggestive of an acute myocardial infarction. Given his history of smoking and high cholesterol, he is at increased risk for coronary artery disease. Immediate intervention is required to restore blood flow and preserve cardiac function.",
+            "id": "cd4fabfa-fb3c-46e2-9382-f946917860a4"
+        }
+    },
+    {
+        "text": "A 25-year-old woman presents with fatigue, generalized weakness, and pale skin. Laboratory tests reveal low hemoglobin, low mean corpuscular volume (MCV), and low serum iron levels. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Iron deficiency anemia",
+                "is_correct": true,
+                "explanation": "The patient's symptoms of fatigue, generalized weakness, and pale skin, along with low hemoglobin, low MCV, and low serum iron levels, are indicative of iron deficiency anemia. Iron deficiency is the most common cause of anemia and can result from inadequate dietary intake, malabsorption, or chronic blood loss. Further evaluation and treatment are necessary to address the underlying iron deficiency.",
+                "id": "02c698f8-05d4-4289-89fe-54b323759dce"
+            },
+            {
+                "alpha": "B",
+                "text": "Vitamin B12 deficiency anemia",
+                "is_correct": false,
+                "explanation": "Vitamin B12 deficiency anemia typically presents with neurologic symptoms in addition to anemia, such as paresthesias, ataxia, and neurologic deficits. The patient's symptoms and laboratory findings are more consistent with iron deficiency anemia. Vitamin B12 deficiency should be considered if there is evidence of malabsorption or other underlying causes.",
+                "id": "b8529bcc-d361-4bd2-a2a8-41336b0722e8"
+            },
+            {
+                "alpha": "C",
+                "text": "Thalassemia",
+                "is_correct": false,
+                "explanation": "Thalassemia is a group of inherited blood disorders resulting in defective synthesis of hemoglobin chains. While it can cause anemia, the low MCV and low iron levels are not typical findings in thalassemia. Iron deficiency anemia is a more likely diagnosis based on the patient's symptoms and laboratory results.",
+                "id": "6f2b453b-a8da-4908-8b3e-0bd599493353"
+            },
+            {
+                "alpha": "D",
+                "text": "Sickle cell anemia",
+                "is_correct": false,
+                "explanation": "Sickle cell anemia is a genetic disorder characterized by abnormal hemoglobin that causes red blood cells to become sickle-shaped. The patient's symptoms and laboratory findings are not consistent with sickle cell anemia, as it typically presents with pain crises, jaundice, and a high reticulocyte count. The most likely diagnosis in this case is iron deficiency anemia.",
+                "id": "865887a5-b101-4a47-bacc-4f6d185d7022"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Iron deficiency anemia",
+            "is_correct": true,
+            "explanation": "The patient's symptoms of fatigue, generalized weakness, and pale skin, along with low hemoglobin, low MCV, and low serum iron levels, are indicative of iron deficiency anemia. Iron deficiency is the most common cause of anemia and can result from inadequate dietary intake, malabsorption, or chronic blood loss. Further evaluation and treatment are necessary to address the underlying iron deficiency.",
+            "id": "02c698f8-05d4-4289-89fe-54b323759dce"
+        }
+    },
+    {
+        "text": "A 55-year-old man presents with sudden-onset severe headache, neck stiffness, and photophobia. On physical examination, there is no focal neurological deficit. Lumbar puncture reveals elevated opening pressure but normal cerebrospinal fluid (CSF) composition. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Subarachnoid hemorrhage",
+                "is_correct": true,
+                "explanation": "The patient's sudden-onset severe headache, neck stiffness, and photophobia, along with elevated opening pressure on lumbar puncture, are classic signs of subarachnoid hemorrhage. In such cases, CSF analysis may reveal xanthochromia or red blood cells, indicating blood in the CSF. Further imaging, such as a CT scan or angiography, is typically performed to identify the source of hemorrhage and guide management.",
+                "id": "1079866d-e553-4330-ac77-4d534c5e2281"
+            },
+            {
+                "alpha": "B",
+                "text": "Meningitis",
+                "is_correct": false,
+                "explanation": "Meningitis can present with similar symptoms of headache, neck stiffness, and photophobia. However, the normal CSF composition in this case makes subarachnoid hemorrhage a more likely diagnosis. Additional investigations may be required to confirm the exact cause of the patient's symptoms.",
+                "id": "06b968cd-707e-447b-9bc6-31e2ebef7c89"
+            },
+            {
+                "alpha": "C",
+                "text": "Migraine",
+                "is_correct": false,
+                "explanation": "Migraines can cause severe headache, photophobia, and some neck stiffness. However, the elevated opening pressure on lumbar puncture and normal CSF composition make subarachnoid hemorrhage a more likely diagnosis. Further evaluation is necessary to confirm the underlying cause of the patient's symptoms.",
+                "id": "1949e163-4764-4e64-baac-6441d04e71e2"
+            },
+            {
+                "alpha": "D",
+                "text": "Cluster headache",
+                "is_correct": false,
+                "explanation": "Cluster headaches typically present with severe unilateral headache, often behind or around the eye, accompanied by autonomic symptoms like lacrimation, rhinorrhea, and eyelid edema. The absence of these autonomic symptoms and the elevated opening pressure with normal CSF composition make subarachnoid hemorrhage a more probable diagnosis in this case.",
+                "id": "c6c68527-b8de-45c7-bcf2-5967c01815e8"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Subarachnoid hemorrhage",
+            "is_correct": true,
+            "explanation": "The patient's sudden-onset severe headache, neck stiffness, and photophobia, along with elevated opening pressure on lumbar puncture, are classic signs of subarachnoid hemorrhage. In such cases, CSF analysis may reveal xanthochromia or red blood cells, indicating blood in the CSF. Further imaging, such as a CT scan or angiography, is typically performed to identify the source of hemorrhage and guide management.",
+            "id": "1079866d-e553-4330-ac77-4d534c5e2281"
+        }
+    },
+    {
+        "text": "A 65-year-old man with a history of smoking presents with chronic cough, weight loss, and hemoptysis. On imaging, a solitary pulmonary nodule measuring 2 cm is found in the upper lobe of the right lung. What is the most appropriate next step in management?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Perform a CT-guided needle biopsy of the pulmonary nodule",
+                "is_correct": false,
+                "explanation": "Performing a CT-guided needle biopsy of the pulmonary nodule is a potential option to obtain a tissue sample for further evaluation. However, given the patient's history of smoking, chronic cough, weight loss, and the presence of a solitary pulmonary nodule, the most appropriate next step in management is to proceed with surgical resection through a lobectomy or wedge resection for both diagnostic and potentially curative purposes.",
+                "id": "61c4a7f9-c425-4787-bf9f-c85da7c737b0"
+            },
+            {
+                "alpha": "B",
+                "text": "Initiate empiric antibiotic therapy for suspected lung infection",
+                "is_correct": false,
+                "explanation": "While infectious causes can present with chronic cough and hemoptysis, the presence of a solitary pulmonary nodule in a patient with a history of smoking raises concerns for malignancy. Initiating empiric antibiotic therapy would be premature without confirming a lung infection. Further evaluation, such as imaging-guided biopsy or surgical resection, is necessary.",
+                "id": "89760fe2-d270-4d2f-904e-1c77b6f4df26"
+            },
+            {
+                "alpha": "C",
+                "text": "Observe the pulmonary nodule with serial imaging at regular intervals",
+                "is_correct": false,
+                "explanation": "Observation with serial imaging at regular intervals is an option for certain patients with low-risk pulmonary nodules. However, in this case, the patient's symptoms, history of smoking, and presence of a 2 cm pulmonary nodule raise concerns for malignancy. Further evaluation, such as imaging-guided biopsy or surgical resection, is warranted.",
+                "id": "7d923456-1464-4f03-8caa-7198a7a1c262"
+            },
+            {
+                "alpha": "D",
+                "text": "Proceed with surgical resection of the pulmonary nodule",
+                "is_correct": true,
+                "explanation": "Given the patient's chronic cough, weight loss, hemoptysis, history of smoking, and the presence of a solitary pulmonary nodule, the most appropriate next step in management is to proceed with surgical resection. This allows for both diagnostic confirmation and potential curative treatment. Lobectomy or wedge resection can be performed depending on the specific characteristics of the nodule and the patient's overall health.",
+                "id": "0a9d8b6b-c83f-465e-a5b1-7b44ddc0792c"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "D",
+            "text": "Proceed with surgical resection of the pulmonary nodule",
+            "is_correct": true,
+            "explanation": "Given the patient's chronic cough, weight loss, hemoptysis, history of smoking, and the presence of a solitary pulmonary nodule, the most appropriate next step in management is to proceed with surgical resection. This allows for both diagnostic confirmation and potential curative treatment. Lobectomy or wedge resection can be performed depending on the specific characteristics of the nodule and the patient's overall health.",
+            "id": "0a9d8b6b-c83f-465e-a5b1-7b44ddc0792c"
+        }
+    },
+    {
+        "text": "A 40-year-old woman presents with sudden-onset severe abdominal pain, nausea, and vomiting. On physical examination, her abdomen is distended and tender to palpation. Laboratory tests show leukocytosis and an elevated serum lactate level. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute pancreatitis",
+                "is_correct": false,
+                "explanation": "Acute pancreatitis can present with severe abdominal pain, nausea, and vomiting, but the distended abdomen and leukocytosis are not typical findings. The elevated serum lactate level suggests a more severe condition that requires immediate evaluation and management.",
+                "id": "bcb9fbf7-5b48-495b-b17b-c6b774a66e14"
+            },
+            {
+                "alpha": "B",
+                "text": "Appendicitis",
+                "is_correct": false,
+                "explanation": "Appendicitis can cause severe abdominal pain, nausea, and vomiting, but the distended abdomen and elevated serum lactate level are not typical findings. The patient's presentation suggests a more serious condition that requires urgent evaluation and intervention.",
+                "id": "fb171308-ac6f-4b66-a1ab-32829c1f3b9f"
+            },
+            {
+                "alpha": "C",
+                "text": "Bowel obstruction",
+                "is_correct": true,
+                "explanation": "The patient's sudden-onset severe abdominal pain, distended abdomen, nausea, vomiting, leukocytosis, and elevated serum lactate level are indicative of bowel obstruction. Bowel obstruction can lead to impaired blood flow, ischemia, and necrosis of the affected bowel segment, resulting in abdominal pain and metabolic derangements. Immediate intervention is necessary to relieve the obstruction and restore proper bowel function.",
+                "id": "b976bd54-b4d9-49db-9824-cc65ad8a959d"
+            },
+            {
+                "alpha": "D",
+                "text": "Gastroenteritis",
+                "is_correct": false,
+                "explanation": "Gastroenteritis can cause abdominal pain, nausea, and vomiting, but the distended abdomen, leukocytosis, and elevated serum lactate level are not typical findings. The patient's presentation suggests a more serious condition that requires urgent evaluation and intervention.",
+                "id": "9b4b9d62-64b6-4877-858b-5bdc10d73c1e"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "C",
+            "text": "Bowel obstruction",
+            "is_correct": true,
+            "explanation": "The patient's sudden-onset severe abdominal pain, distended abdomen, nausea, vomiting, leukocytosis, and elevated serum lactate level are indicative of bowel obstruction. Bowel obstruction can lead to impaired blood flow, ischemia, and necrosis of the affected bowel segment, resulting in abdominal pain and metabolic derangements. Immediate intervention is necessary to relieve the obstruction and restore proper bowel function.",
+            "id": "b976bd54-b4d9-49db-9824-cc65ad8a959d"
+        }
+    },
+    {
+        "text": "A 60-year-old man with a history of hypertension presents with sudden-onset severe headache, blurred vision, and confusion. On physical examination, his blood pressure is markedly elevated. Fundoscopic examination reveals bilateral papilledema. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Migraine with aura",
+                "is_correct": false,
+                "explanation": "Migraine with aura can cause headache and visual disturbances, but the marked elevation in blood pressure and bilateral papilledema are not typical findings. The patient's presentation suggests a different diagnosis that requires urgent evaluation and management.",
+                "id": "0cab244c-b6d9-4302-8973-9beea325dc40"
+            },
+            {
+                "alpha": "B",
+                "text": "Hypertensive encephalopathy",
+                "is_correct": true,
+                "explanation": "The patient's sudden-onset severe headache, blurred vision, confusion, markedly elevated blood pressure, and bilateral papilledema are indicative of hypertensive encephalopathy. Hypertensive encephalopathy is a medical emergency caused by severe hypertension leading to cerebral edema and neurologic dysfunction. Immediate blood pressure control is crucial to prevent further complications.",
+                "id": "b6c98158-7e04-4d59-9ce8-c3788a566061"
+            },
+            {
+                "alpha": "C",
+                "text": "Meningitis",
+                "is_correct": false,
+                "explanation": "Meningitis can present with headache, confusion, and visual disturbances, but the marked elevation in blood pressure and bilateral papilledema are not typical findings. The patient's presentation suggests a different diagnosis that requires urgent evaluation and management.",
+                "id": "0925aa70-4d18-4719-a35f-24b7715b1a2b"
+            },
+            {
+                "alpha": "D",
+                "text": "Cluster headache",
+                "is_correct": false,
+                "explanation": "Cluster headaches typically present with severe unilateral headache accompanied by autonomic symptoms like lacrimation, rhinorrhea, and eyelid edema. The marked elevation in blood pressure and bilateral papilledema are not typical findings in cluster headaches. The patient's presentation suggests a different diagnosis that requires urgent evaluation and management.",
+                "id": "44d2de1f-8ee7-4398-9a03-7ded5e966b59"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Hypertensive encephalopathy",
+            "is_correct": true,
+            "explanation": "The patient's sudden-onset severe headache, blurred vision, confusion, markedly elevated blood pressure, and bilateral papilledema are indicative of hypertensive encephalopathy. Hypertensive encephalopathy is a medical emergency caused by severe hypertension leading to cerebral edema and neurologic dysfunction. Immediate blood pressure control is crucial to prevent further complications.",
+            "id": "b6c98158-7e04-4d59-9ce8-c3788a566061"
+        }
+    },
+    {
+        "text": "A 35-year-old female presents with fatigue, weight gain, constipation, and dry skin. On physical examination, her skin appears pale and cool to touch. Laboratory tests reveal elevated levels of thyroid-stimulating hormone (TSH) and decreased levels of free thyroxine (T4). What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Graves' disease",
+                "is_correct": false,
+                "explanation": "Graves' disease is an autoimmune disorder that causes hyperthyroidism, resulting in symptoms such as weight loss, heat intolerance, palpitations, and tremors. The patient's symptoms of fatigue, weight gain, constipation, and dry skin, along with elevated TSH and decreased free T4 levels, are indicative of hypothyroidism. Graves' disease is associated with hyperthyroidism, not hypothyroidism.",
+                "id": "35806d63-7b3a-4983-aef1-73d7c0e680cf"
+            },
+            {
+                "alpha": "B",
+                "text": "Hashimoto's thyroiditis",
+                "is_correct": true,
+                "explanation": "The patient's symptoms of fatigue, weight gain, constipation, and dry skin, along with elevated TSH and decreased free T4 levels, are consistent with hypothyroidism. Hashimoto's thyroiditis is an autoimmune disorder that leads to chronic inflammation of the thyroid gland, resulting in hypothyroidism. Further evaluation and thyroid hormone replacement therapy are typically indicated.",
+                "id": "c07d5cfb-1ab0-4dd9-83a4-6bbae740a9ec"
+            },
+            {
+                "alpha": "C",
+                "text": "Thyroid storm",
+                "is_correct": false,
+                "explanation": "Thyroid storm is a life-threatening condition characterized by severe thyrotoxicosis. The patient's symptoms of fatigue, weight gain, constipation, and dry skin are not indicative of thyroid storm. Additionally, the elevated TSH and decreased free T4 levels suggest a state of hypothyroidism rather than thyrotoxicosis.",
+                "id": "94cc7f39-ca4d-48d3-9057-bbea433e75a8"
+            },
+            {
+                "alpha": "D",
+                "text": "Pituitary adenoma",
+                "is_correct": false,
+                "explanation": "A pituitary adenoma can cause hormonal imbalances, including hyperprolactinemia or abnormalities related to growth hormone secretion. However, the patient's symptoms, along with the elevated TSH and decreased free T4 levels, are more consistent with hypothyroidism. Further evaluation is necessary to determine the underlying cause of her hypothyroidism.",
+                "id": "de21e507-2f21-4c64-baea-48751f95d618"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Hashimoto's thyroiditis",
+            "is_correct": true,
+            "explanation": "The patient's symptoms of fatigue, weight gain, constipation, and dry skin, along with elevated TSH and decreased free T4 levels, are consistent with hypothyroidism. Hashimoto's thyroiditis is an autoimmune disorder that leads to chronic inflammation of the thyroid gland, resulting in hypothyroidism. Further evaluation and thyroid hormone replacement therapy are typically indicated.",
+            "id": "c07d5cfb-1ab0-4dd9-83a4-6bbae740a9ec"
+        }
+    },
+    {
+        "text": "A 25-year-old female presents with sudden-onset lower abdominal pain and fever. She reports having unprotected sexual intercourse with multiple partners in the past month. On abdominal examination, she has diffuse lower abdominal tenderness and rebound tenderness. Pelvic examination reveals cervical motion tenderness and bilateral adnexal tenderness. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute appendicitis",
+                "is_correct": false,
+                "explanation": "Acute appendicitis does not typically present with cervical motion tenderness and bilateral adnexal tenderness.",
+                "id": "9ce2ba4c-951b-41ee-b714-567888f53d4f"
+            },
+            {
+                "alpha": "B",
+                "text": "Pelvic inflammatory disease (PID)",
+                "is_correct": true,
+                "explanation": "The patient's history of unprotected sexual intercourse with multiple partners, along with the presence of lower abdominal tenderness, rebound tenderness, cervical motion tenderness, and bilateral adnexal tenderness, are highly suggestive of PID.",
+                "id": "71407e53-613b-4126-87fa-5b847bf46a27"
+            },
+            {
+                "alpha": "C",
+                "text": "Ectopic pregnancy",
+                "is_correct": false,
+                "explanation": "While a ruptured ectopic pregnancy can cause lower abdominal pain and tenderness, it is less likely to present with cervical motion tenderness and bilateral adnexal tenderness.",
+                "id": "76a9143f-a6b0-4363-8572-201f9bd613a3"
+            },
+            {
+                "alpha": "D",
+                "text": "Renal colic",
+                "is_correct": false,
+                "explanation": "Renal colic usually manifests as severe, colicky flank pain radiating to the groin, and does not typically cause lower abdominal tenderness or cervical motion tenderness.",
+                "id": "f134a3e1-2463-4f4c-a411-5b5146a5bd3a"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Pelvic inflammatory disease (PID)",
+            "is_correct": true,
+            "explanation": "The patient's history of unprotected sexual intercourse with multiple partners, along with the presence of lower abdominal tenderness, rebound tenderness, cervical motion tenderness, and bilateral adnexal tenderness, are highly suggestive of PID.",
+            "id": "71407e53-613b-4126-87fa-5b847bf46a27"
+        }
+    },
+    {
+        "text": "A 65-year-old male presents with difficulty swallowing solids and liquids, weight loss, and regurgitation of undigested food. On physical examination, the patient has decreased breath sounds and dullness to percussion over the left lower lung fields. Barium esophagogram shows a dilated esophagus with a 'bird's beak' appearance. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Esophageal cancer",
+                "is_correct": false,
+                "explanation": "Esophageal cancer may present with difficulty swallowing and weight loss, but it does not typically cause regurgitation of undigested food or a dilated esophagus with a 'bird's beak' appearance.",
+                "id": "339af4f5-5bdc-45ed-aa9e-097a4483cee7"
+            },
+            {
+                "alpha": "B",
+                "text": "Gastroesophageal reflux disease (GERD)",
+                "is_correct": false,
+                "explanation": "GERD can cause difficulty swallowing and regurgitation, but it does not lead to a dilated esophagus with a 'bird's beak' appearance on imaging.",
+                "id": "8dfab02d-e59c-469a-a6ef-0a99003078a6"
+            },
+            {
+                "alpha": "C",
+                "text": "Esophageal varices",
+                "is_correct": false,
+                "explanation": "Esophageal varices typically occur in patients with liver cirrhosis or portal hypertension and are associated with hematemesis or melena, not with the symptoms described in the patient.",
+                "id": "08247367-0720-47fd-b032-3342c5a85d17"
+            },
+            {
+                "alpha": "D",
+                "text": "Achalasia",
+                "is_correct": true,
+                "explanation": "Achalasia is characterized by difficulty swallowing, regurgitation of undigested food, weight loss, and a dilated esophagus with a 'bird's beak' appearance on imaging. The decreased breath sounds and dullness to percussion over the left lower lung fields indicate possible aspiration pneumonia.",
+                "id": "920be0de-11cd-40a7-a0c1-653a208db89b"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "D",
+            "text": "Achalasia",
+            "is_correct": true,
+            "explanation": "Achalasia is characterized by difficulty swallowing, regurgitation of undigested food, weight loss, and a dilated esophagus with a 'bird's beak' appearance on imaging. The decreased breath sounds and dullness to percussion over the left lower lung fields indicate possible aspiration pneumonia.",
+            "id": "920be0de-11cd-40a7-a0c1-653a208db89b"
+        }
+    },
+    {
+        "text": "A 45-year-old male presents with sudden-onset severe chest pain radiating to his back. The pain began while he was lifting heavy objects. On physical examination, his blood pressure in the right arm is significantly lower than the left arm. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute myocardial infarction",
+                "is_correct": false,
+                "explanation": "While acute myocardial infarction can cause severe chest pain, it does not typically present with a significant difference in blood pressure between the arms.",
+                "id": "7532810a-5fcb-4e2f-b602-13e5e9354d8c"
+            },
+            {
+                "alpha": "B",
+                "text": "Aortic dissection",
+                "is_correct": true,
+                "explanation": "The sudden-onset severe chest pain radiating to the back, along with the significant difference in blood pressure between the arms, are highly suggestive of aortic dissection.",
+                "id": "02f066e4-f4f2-4163-a0c0-4bda522f5ffa"
+            },
+            {
+                "alpha": "C",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism can cause chest pain, but it does not typically lead to a significant difference in blood pressure between the arms.",
+                "id": "c0d30084-33c2-4b47-9ef9-50efd5701772"
+            },
+            {
+                "alpha": "D",
+                "text": "Pericarditis",
+                "is_correct": false,
+                "explanation": "Pericarditis can cause chest pain, but it does not typically cause a significant difference in blood pressure between the arms.",
+                "id": "d7fe8c4e-06f3-4794-b6b4-733bd154d16c"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Aortic dissection",
+            "is_correct": true,
+            "explanation": "The sudden-onset severe chest pain radiating to the back, along with the significant difference in blood pressure between the arms, are highly suggestive of aortic dissection.",
+            "id": "02f066e4-f4f2-4163-a0c0-4bda522f5ffa"
+        }
+    },
+    {
+        "text": "A 35-year-old female presents with fatigue, weight gain, constipation, and cold intolerance. Physical examination reveals dry skin, coarse hair, and periorbital edema. Her laboratory results show elevated thyroid-stimulating hormone (TSH) levels and low free thyroxine (T4) levels. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Graves' disease",
+                "is_correct": false,
+                "explanation": "Graves' disease is characterized by hyperthyroidism, not hypothyroidism, and typically presents with symptoms such as weight loss, heat intolerance, and palpitations.",
+                "id": "2e1f9f46-e970-444a-8f17-eb61a2c827d4"
+            },
+            {
+                "alpha": "B",
+                "text": "Hashimoto's thyroiditis",
+                "is_correct": true,
+                "explanation": "The symptoms of fatigue, weight gain, constipation, cold intolerance, along with the physical findings and laboratory results, are consistent with the diagnosis of Hashimoto's thyroiditis, which is the most common cause of hypothyroidism.",
+                "id": "abc6f3f7-ecfb-48b3-841e-b3d88230c031"
+            },
+            {
+                "alpha": "C",
+                "text": "Toxic multinodular goiter",
+                "is_correct": false,
+                "explanation": "Toxic multinodular goiter is a form of hyperthyroidism, not hypothyroidism, and is associated with an enlarged thyroid gland.",
+                "id": "10338d30-d23f-4797-83e2-6ae9cb2c5909"
+            },
+            {
+                "alpha": "D",
+                "text": "Subacute thyroiditis",
+                "is_correct": false,
+                "explanation": "Subacute thyroiditis typically presents with neck pain, fever, and a tender thyroid gland. It does not cause hypothyroidism.",
+                "id": "df79402e-40b1-4d21-9fbb-4f81747a5c83"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Hashimoto's thyroiditis",
+            "is_correct": true,
+            "explanation": "The symptoms of fatigue, weight gain, constipation, cold intolerance, along with the physical findings and laboratory results, are consistent with the diagnosis of Hashimoto's thyroiditis, which is the most common cause of hypothyroidism.",
+            "id": "abc6f3f7-ecfb-48b3-841e-b3d88230c031"
+        }
+    },
+    {
+        "text": "A 24-year-old female presents with a red, painful eye, accompanied by blurred vision and photophobia. On examination, the affected eye has conjunctival injection, a small pupil that does not react to light, and circumciliary injection. The vision in the affected eye is decreased. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute glaucoma",
+                "is_correct": true,
+                "explanation": "The symptoms of a red, painful eye, blurred vision, photophobia, small pupil that does not react to light, circumciliary injection, and decreased vision are characteristic of acute glaucoma.",
+                "id": "cf63c5e9-7596-45a8-a82b-f93d328284f0"
+            },
+            {
+                "alpha": "B",
+                "text": "Bacterial conjunctivitis",
+                "is_correct": false,
+                "explanation": "Bacterial conjunctivitis typically presents with conjunctival injection and discharge but does not cause a small pupil and symptoms of blurred vision, photophobia, and decreased vision.",
+                "id": "08d05e47-6bec-4b24-9715-a916b356654d"
+            },
+            {
+                "alpha": "C",
+                "text": "Corneal abrasion",
+                "is_correct": false,
+                "explanation": "Corneal abrasion can cause redness, pain, and blurred vision, but it does not lead to a small pupil that does not react to light and circumciliary injection.",
+                "id": "05caca84-2a75-446f-8c35-21a495ddff14"
+            },
+            {
+                "alpha": "D",
+                "text": "Pterygium",
+                "is_correct": false,
+                "explanation": "Pterygium is a non-cancerous growth on the conjunctiva that can cause redness and discomfort, but it does not present with symptoms of a small pupil, blurred vision, photophobia, and decreased vision.",
+                "id": "64b575df-b13f-4e35-b71c-206f976551b0"
+            }
+        ],
+        "type": "amc",
+        "field": "General",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Acute glaucoma",
+            "is_correct": true,
+            "explanation": "The symptoms of a red, painful eye, blurred vision, photophobia, small pupil that does not react to light, circumciliary injection, and decreased vision are characteristic of acute glaucoma.",
+            "id": "cf63c5e9-7596-45a8-a82b-f93d328284f0"
+        }
+    },
+    {
+        "text": "A 29-year-old international medical graduate is preparing for the AMC exam. Which of the following is the most appropriate study resource to utilize for exam preparation?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Textbooks and review books",
+                "is_correct": true,
+                "explanation": "Textbooks and review books provide comprehensive knowledge and cover a wide range of topics, making them ideal for exam preparation.",
+                "id": "9077bf83-7927-4cfe-946a-117058dff944"
+            },
+            {
+                "alpha": "B",
+                "text": "Medical journals",
+                "is_correct": false,
+                "explanation": "While medical journals are valuable for staying updated with recent research, they may not provide sufficient coverage for exam preparation.",
+                "id": "feb0f988-8b90-485d-97a6-a5703651e775"
+            },
+            {
+                "alpha": "C",
+                "text": "Online forums and discussion boards",
+                "is_correct": false,
+                "explanation": "Online forums and discussion boards can be helpful for exchanging information and experiences, but they may not offer comprehensive study materials.",
+                "id": "49cb701d-cc1e-4f99-85a6-9cf484dbc06f"
+            },
+            {
+                "alpha": "D",
+                "text": "Social media platforms",
+                "is_correct": false,
+                "explanation": "Social media platforms are not reliable sources for exam preparation as the information shared may not always be accurate or comprehensive.",
+                "id": "023b9f78-0a01-421f-a380-fdf4a3addd31"
+            }
+        ],
+        "type": "amc",
+        "field": "General Medicine",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Textbooks and review books",
+            "is_correct": true,
+            "explanation": "Textbooks and review books provide comprehensive knowledge and cover a wide range of topics, making them ideal for exam preparation.",
+            "id": "9077bf83-7927-4cfe-946a-117058dff944"
+        }
+    },
+    {
+        "text": "Which of the following is the most appropriate initial management for a patient with a suspected acute appendicitis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Immediate laparoscopic appendectomy",
+                "is_correct": false,
+                "explanation": "Immediate laparoscopic appendectomy is not the most appropriate initial management. Conservative management is usually attempted first.",
+                "id": "76271ae3-2bcd-48e4-845c-2602ff49b639"
+            },
+            {
+                "alpha": "B",
+                "text": "Immediate open appendectomy",
+                "is_correct": false,
+                "explanation": "Immediate open appendectomy is not the most appropriate initial management. Conservative management is usually attempted first.",
+                "id": "68bc75bf-0369-4442-baf1-c52063cb518d"
+            },
+            {
+                "alpha": "C",
+                "text": "Observation with serial physical examinations and imaging",
+                "is_correct": true,
+                "explanation": "Observation with serial physical examinations and imaging is the most appropriate initial management for a patient with a suspected acute appendicitis. This approach helps to confirm the diagnosis and assess the severity of the condition before deciding on surgery.",
+                "id": "3236c668-e0f5-4a15-9103-4aaf789b894b"
+            },
+            {
+                "alpha": "D",
+                "text": "Prescribing oral antibiotics and analgesics",
+                "is_correct": false,
+                "explanation": "Prescribing oral antibiotics and analgesics alone is not the most appropriate initial management. Conservative management with observation and imaging is usually attempted first.",
+                "id": "de1f2dad-01e9-49c7-8111-e8678299943e"
+            }
+        ],
+        "type": "amc",
+        "field": "Medicine",
+        "correct_option": {
+            "alpha": "C",
+            "text": "Observation with serial physical examinations and imaging",
+            "is_correct": true,
+            "explanation": "Observation with serial physical examinations and imaging is the most appropriate initial management for a patient with a suspected acute appendicitis. This approach helps to confirm the diagnosis and assess the severity of the condition before deciding on surgery.",
+            "id": "3236c668-e0f5-4a15-9103-4aaf789b894b"
+        }
+    },
+    {
+        "text": "A 65-year-old male presents with sudden-onset severe chest pain radiating to the back. He appears diaphoretic and has a blood pressure of 80/40 mmHg. An electrocardiogram (ECG) shows ST-segment elevation in leads II, III, and aVF. Which of the following is the most appropriate initial management for this patient?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Immediate administration of thrombolytic therapy",
+                "is_correct": false,
+                "explanation": "Immediate administration of thrombolytic therapy is contraindicated in this patient as he has aortic dissection as the most likely cause of his symptoms.",
+                "id": "d5bd16b8-fc6c-43f7-9ca5-58a23ef6e37a"
+            },
+            {
+                "alpha": "B",
+                "text": "Immediate percutaneous coronary intervention (PCI)",
+                "is_correct": false,
+                "explanation": "Immediate percutaneous coronary intervention (PCI) is not the most appropriate initial management for this patient as he has aortic dissection as the most likely cause of his symptoms.",
+                "id": "efdf752f-2185-4738-a3e0-e2e2bced31d2"
+            },
+            {
+                "alpha": "C",
+                "text": "Immediate administration of intravenous sodium nitroprusside",
+                "is_correct": false,
+                "explanation": "Immediate administration of intravenous sodium nitroprusside is not the most appropriate initial management for this patient as he has aortic dissection as the most likely cause of his symptoms. This treatment may worsen the condition.",
+                "id": "0dd9c98e-ff55-4043-90e1-16981bea5b59"
+            },
+            {
+                "alpha": "D",
+                "text": "Immediate administration of intravenous beta-blocker",
+                "is_correct": true,
+                "explanation": "Immediate administration of intravenous beta-blocker is the most appropriate initial management for this patient. This helps to reduce heart rate and blood pressure, potentially stabilizing the dissected aorta and preventing further complications.",
+                "id": "e27c7157-e378-4747-be29-1621cbc292d6"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "D",
+            "text": "Immediate administration of intravenous beta-blocker",
+            "is_correct": true,
+            "explanation": "Immediate administration of intravenous beta-blocker is the most appropriate initial management for this patient. This helps to reduce heart rate and blood pressure, potentially stabilizing the dissected aorta and preventing further complications.",
+            "id": "e27c7157-e378-4747-be29-1621cbc292d6"
+        }
+    },
+    {
+        "text": "A 35-year-old female presents with sudden-onset severe lower abdominal pain and vaginal bleeding. She has a positive urine pregnancy test. On pelvic examination, there is tenderness in bilateral adnexal regions. She has a history of previous ectopic pregnancy. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Ovarian cyst torsion",
+                "is_correct": false,
+                "explanation": "Ovarian cyst torsion is unlikely to be the most likely diagnosis in this case, as the patient has a history of previous ectopic pregnancy and presents with severe lower abdominal pain and vaginal bleeding.",
+                "id": "46415f53-ef0d-40a2-9cac-2a336f217207"
+            },
+            {
+                "alpha": "B",
+                "text": "Acute appendicitis",
+                "is_correct": false,
+                "explanation": "Acute appendicitis is unlikely to be the most likely diagnosis in this case, as the patient has a positive urine pregnancy test and tenderness in bilateral adnexal regions.",
+                "id": "1854ccec-f551-4def-9466-ba9995ee5915"
+            },
+            {
+                "alpha": "C",
+                "text": "Ectopic pregnancy",
+                "is_correct": true,
+                "explanation": "Ectopic pregnancy is the most likely diagnosis in this case, given the patient's positive urine pregnancy test, history of previous ectopic pregnancy, and symptoms of severe lower abdominal pain and vaginal bleeding. Further investigations, such as transvaginal ultrasound, should be performed to confirm the diagnosis.",
+                "id": "87ccd38e-fa9d-497c-a7ed-9b801ce59c79"
+            },
+            {
+                "alpha": "D",
+                "text": "Endometriosis",
+                "is_correct": false,
+                "explanation": "Endometriosis is unlikely to be the most likely diagnosis in this case, as the patient has a positive urine pregnancy test and presents with severe lower abdominal pain and vaginal bleeding.",
+                "id": "53052528-62a6-4338-b66c-b07f518a0227"
+            }
+        ],
+        "type": "amc",
+        "field": "Obstetrics and Gynecology",
+        "correct_option": {
+            "alpha": "C",
+            "text": "Ectopic pregnancy",
+            "is_correct": true,
+            "explanation": "Ectopic pregnancy is the most likely diagnosis in this case, given the patient's positive urine pregnancy test, history of previous ectopic pregnancy, and symptoms of severe lower abdominal pain and vaginal bleeding. Further investigations, such as transvaginal ultrasound, should be performed to confirm the diagnosis.",
+            "id": "87ccd38e-fa9d-497c-a7ed-9b801ce59c79"
+        }
+    },
+    {
+        "text": "A 58-year-old male with a history of hypertension and hyperlipidemia presents with sudden-onset right-sided weakness and slurred speech. On examination, his blood pressure is 180/100 mmHg, and he has decreased strength in the right upper and lower limbs. Which of the following is the most appropriate initial management for this patient?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Immediate administration of intravenous tissue plasminogen activator (tPA)",
+                "is_correct": false,
+                "explanation": "Immediate administration of intravenous tissue plasminogen activator (tPA) is contraindicated in this patient as he has uncontrolled hypertension.",
+                "id": "c5be1626-0da8-4c98-951d-b97882eddc26"
+            },
+            {
+                "alpha": "B",
+                "text": "Immediate administration of intravenous anticoagulant therapy",
+                "is_correct": false,
+                "explanation": "Immediate administration of intravenous anticoagulant therapy is not the most appropriate initial management for this patient. This treatment is typically not indicated for acute ischemic stroke without specific indications.",
+                "id": "943dd4d8-2ed6-45d3-9f51-2dc43cc16b4b"
+            },
+            {
+                "alpha": "C",
+                "text": "Immediate administration of intravenous antiplatelet therapy",
+                "is_correct": false,
+                "explanation": "Immediate administration of intravenous antiplatelet therapy is not the most appropriate initial management for this patient. This treatment is typically not recommended as the first-line therapy for acute ischemic stroke.",
+                "id": "d0a77d87-ff23-4739-ac43-d9a0828d903a"
+            },
+            {
+                "alpha": "D",
+                "text": "Immediate control of blood pressure",
+                "is_correct": true,
+                "explanation": "Immediate control of blood pressure is the most appropriate initial management for this patient. Hypertension should be urgently managed to avoid potential complications and to potentially improve the patient's clinical outcome.",
+                "id": "586922f3-da57-4d01-b077-2111bce5eb6d"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "D",
+            "text": "Immediate control of blood pressure",
+            "is_correct": true,
+            "explanation": "Immediate control of blood pressure is the most appropriate initial management for this patient. Hypertension should be urgently managed to avoid potential complications and to potentially improve the patient's clinical outcome.",
+            "id": "586922f3-da57-4d01-b077-2111bce5eb6d"
+        }
+    },
+    {
+        "text": "A 42-year-old female presents with recurrent episodes of abdominal pain, diarrhea, and weight loss. She describes her stool as greasy and floating. On examination, her abdomen is soft, non-tender, and bowel sounds are normal. Laboratory investigations reveal elevated fecal fat levels. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Irritable bowel syndrome (IBS)",
+                "is_correct": false,
+                "explanation": "Irritable bowel syndrome (IBS) typically does not cause elevated fecal fat levels, greasy stools, and weight loss. Other diagnoses should be considered.",
+                "id": "b9464879-aefb-4eb6-b07d-001bcd05f118"
+            },
+            {
+                "alpha": "B",
+                "text": "Celiac disease",
+                "is_correct": true,
+                "explanation": "Celiac disease is the most likely diagnosis in this case. It is characterized by malabsorption, leading to greasy stools, weight loss, and elevated fecal fat levels. Further evaluation, such as serologic testing and small bowel biopsy, should be performed to confirm the diagnosis.",
+                "id": "5634d63b-48dc-455c-9bf2-0a2c4d7f4504"
+            },
+            {
+                "alpha": "C",
+                "text": "Inflammatory bowel disease (IBD)",
+                "is_correct": false,
+                "explanation": "Inflammatory bowel disease (IBD) may cause weight loss and diarrhea but typically does not present with greasy stools and elevated fecal fat levels. Other diagnoses should be considered.",
+                "id": "854ff8df-fcfb-40cc-928d-5a9cbc81fbac"
+            },
+            {
+                "alpha": "D",
+                "text": "Gallstone disease",
+                "is_correct": false,
+                "explanation": "Gallstone disease is unlikely to be the most likely diagnosis in this case as it does not typically present with greasy stools, weight loss, and elevated fecal fat levels. Other diagnoses should be considered.",
+                "id": "96afb2c6-aca9-495a-bdd5-556d2834ebea"
+            }
+        ],
+        "type": "amc",
+        "field": "Gastroenterology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Celiac disease",
+            "is_correct": true,
+            "explanation": "Celiac disease is the most likely diagnosis in this case. It is characterized by malabsorption, leading to greasy stools, weight loss, and elevated fecal fat levels. Further evaluation, such as serologic testing and small bowel biopsy, should be performed to confirm the diagnosis.",
+            "id": "5634d63b-48dc-455c-9bf2-0a2c4d7f4504"
+        }
+    },
+    {
+        "text": "A 30-year-old previously healthy male presents with a sudden, sharp, severe, tearing chest pain radiating to the back. On examination, his blood pressure is 150/90 mmHg in the right arm and 180/100 mmHg in the left arm. A chest X-ray shows a widened mediastinum. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism typically does not present with tearing chest pain radiating to the back or a widened mediastinum on chest X-ray. Other diagnoses should be considered.",
+                "id": "df08cd36-ca14-4e08-adca-d25171a0e80a"
+            },
+            {
+                "alpha": "B",
+                "text": "Acute pericarditis",
+                "is_correct": false,
+                "explanation": "Acute pericarditis typically does not present with tearing chest pain radiating to the back or a widened mediastinum on chest X-ray. Other diagnoses should be considered.",
+                "id": "233bfd57-aa42-4eec-ada5-e5e7d4791361"
+            },
+            {
+                "alpha": "C",
+                "text": "Aortic dissection",
+                "is_correct": true,
+                "explanation": "Aortic dissection is the most likely diagnosis in this case, given the sudden, severe, tearing chest pain, radiating to the back, and the finding of a widened mediastinum on chest X-ray. Immediate management should be initiated to prevent further complications.",
+                "id": "27ada493-543a-485b-8c75-bdb363b69aa0"
+            },
+            {
+                "alpha": "D",
+                "text": "Myocardial infarction",
+                "is_correct": false,
+                "explanation": "Myocardial infarction typically does not present with tearing chest pain radiating to the back or a widened mediastinum on chest X-ray. Other diagnoses should be considered.",
+                "id": "9cce83ff-e8c4-4bbb-92bf-a2435c2ae0a0"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "C",
+            "text": "Aortic dissection",
+            "is_correct": true,
+            "explanation": "Aortic dissection is the most likely diagnosis in this case, given the sudden, severe, tearing chest pain, radiating to the back, and the finding of a widened mediastinum on chest X-ray. Immediate management should be initiated to prevent further complications.",
+            "id": "27ada493-543a-485b-8c75-bdb363b69aa0"
+        }
+    },
+    {
+        "text": "A 55-year-old obese male presents with complaints of snoring, witnessed apneas during sleep, excessive daytime sleepiness, and morning headaches. On examination, his BMI is 35 kg/m^2 and his neck circumference is 45 cm. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Obstructive sleep apnea (OSA)",
+                "is_correct": true,
+                "explanation": "Obstructive sleep apnea (OSA) is the most likely diagnosis in this case, given the patient's symptoms of snoring, witnessed apneas during sleep, excessive daytime sleepiness, morning headaches, obesity, and increased neck circumference. Further evaluation, such as overnight polysomnography, should be performed to confirm the diagnosis.",
+                "id": "c619a680-eccd-48cd-b7ad-fa351fee2dd6"
+            },
+            {
+                "alpha": "B",
+                "text": "Chronic obstructive pulmonary disease (COPD)",
+                "is_correct": false,
+                "explanation": "Chronic obstructive pulmonary disease (COPD) typically does not present with witnessed apneas during sleep or morning headaches. Other diagnoses should be considered.",
+                "id": "8f4e387a-db24-41e5-8c66-2761fc78f119"
+            },
+            {
+                "alpha": "C",
+                "text": "Asthma",
+                "is_correct": false,
+                "explanation": "Asthma typically does not present with witnessed apneas during sleep, excessive daytime sleepiness, or morning headaches. Other diagnoses should be considered.",
+                "id": "7b0e694a-9935-47c0-a470-3257fcb02ed0"
+            },
+            {
+                "alpha": "D",
+                "text": "Gastroesophageal reflux disease (GERD)",
+                "is_correct": false,
+                "explanation": "Gastroesophageal reflux disease (GERD) typically does not present with witnessed apneas during sleep, excessive daytime sleepiness, or morning headaches. Other diagnoses should be considered.",
+                "id": "3e619981-55e6-4d32-a79d-d769cdf5c5cd"
+            }
+        ],
+        "type": "amc",
+        "field": "Pulmonology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Obstructive sleep apnea (OSA)",
+            "is_correct": true,
+            "explanation": "Obstructive sleep apnea (OSA) is the most likely diagnosis in this case, given the patient's symptoms of snoring, witnessed apneas during sleep, excessive daytime sleepiness, morning headaches, obesity, and increased neck circumference. Further evaluation, such as overnight polysomnography, should be performed to confirm the diagnosis.",
+            "id": "c619a680-eccd-48cd-b7ad-fa351fee2dd6"
+        }
+    },
+    {
+        "text": "A 34-year-old woman presents to the emergency department with sudden onset severe right lower quadrant abdominal pain, nausea, and vomiting. On examination, there is tenderness in the right lower quadrant and rebound tenderness is present. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Gastroenteritis",
+                "is_correct": false,
+                "explanation": "Gastroenteritis usually presents with diarrhea, vomiting, and generalized abdominal pain, but rebound tenderness and localized tenderness in the right lower quadrant suggest a different diagnosis.",
+                "id": "5b2e72a5-f712-46d6-a22a-de9ac28ea3aa"
+            },
+            {
+                "alpha": "B",
+                "text": "Acute appendicitis",
+                "is_correct": true,
+                "explanation": "The clinical presentation with sudden onset severe right lower quadrant abdominal pain, nausea, vomiting, tenderness, and rebound tenderness is highly suggestive of acute appendicitis.",
+                "id": "47ae841d-c120-4794-82d9-609ae2cbedbf"
+            },
+            {
+                "alpha": "C",
+                "text": "Urinary tract infection",
+                "is_correct": false,
+                "explanation": "Urinary tract infection typically presents with urinary symptoms such as dysuria, frequency, urgency, but does not cause rebound tenderness or localized tenderness in the abdomen.",
+                "id": "b1e21aa5-a8e8-4e4f-8029-c385a833e1cd"
+            },
+            {
+                "alpha": "D",
+                "text": "Peptic ulcer disease",
+                "is_correct": false,
+                "explanation": "Peptic ulcer disease may present with epigastric pain, but it is not associated with rebound tenderness or localized tenderness in the right lower quadrant.",
+                "id": "8807b199-c031-432e-8dc2-382640530960"
+            }
+        ],
+        "type": "amc",
+        "field": "Medicine",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Acute appendicitis",
+            "is_correct": true,
+            "explanation": "The clinical presentation with sudden onset severe right lower quadrant abdominal pain, nausea, vomiting, tenderness, and rebound tenderness is highly suggestive of acute appendicitis.",
+            "id": "47ae841d-c120-4794-82d9-609ae2cbedbf"
+        }
+    },
+    {
+        "text": "A 63-year-old male patient with a history of diabetes mellitus presents with a toe ulcer. On examination, the ulcer is deep, with purulent discharge and surrounding cellulitis. Doppler ultrasound shows diminished blood flow in the affected foot. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Osteomyelitis",
+                "is_correct": true,
+                "explanation": "The presence of a deep ulcer with purulent discharge, surrounding cellulitis, and diminished blood flow in the foot suggests osteomyelitis, which is a common complication in patients with diabetic foot ulcers.",
+                "id": "2aa118ea-7f2e-404d-b996-e3a27b517f74"
+            },
+            {
+                "alpha": "B",
+                "text": "Cellulitis",
+                "is_correct": false,
+                "explanation": "While cellulitis is present in this case, the deep ulcer with purulent discharge and diminished blood flow indicates a more severe condition, such as osteomyelitis.",
+                "id": "079796e5-6ec8-42de-b7c6-3adecce8ec3d"
+            },
+            {
+                "alpha": "C",
+                "text": "Gangrene",
+                "is_correct": false,
+                "explanation": "Gangrene typically presents with dry, black, and necrotic tissue. While it can occur as a complication of osteomyelitis, the presentation described in the question is more consistent with osteomyelitis itself.",
+                "id": "2a3d5eda-8b6a-4689-bfdc-92153ad300bb"
+            },
+            {
+                "alpha": "D",
+                "text": "Peripheral arterial disease",
+                "is_correct": false,
+                "explanation": "Peripheral arterial disease can cause diminished blood flow in the foot, but the presence of a deep ulcer with purulent discharge and surrounding cellulitis points towards a diagnosis of osteomyelitis.",
+                "id": "7f41d484-2cbf-447a-ba35-76adeefd2e5a"
+            }
+        ],
+        "type": "amc",
+        "field": "Surgery",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Osteomyelitis",
+            "is_correct": true,
+            "explanation": "The presence of a deep ulcer with purulent discharge, surrounding cellulitis, and diminished blood flow in the foot suggests osteomyelitis, which is a common complication in patients with diabetic foot ulcers.",
+            "id": "2aa118ea-7f2e-404d-b996-e3a27b517f74"
+        }
+    },
+    {
+        "text": "A 28-year-old female presents with recurrent episodes of severe headache accompanied by photophobia, phonophobia, and nausea. The headache lasts for several hours and is often unilateral with a pulsating quality. There is no aura preceding the headache. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Cluster headache",
+                "is_correct": false,
+                "explanation": "Cluster headaches typically present with severe unilateral headache associated with eye redness, tearing, and nasal congestion. They are relatively shorter in duration, lasting minutes to hours, and occur in clusters over weeks to months.",
+                "id": "fa0190fc-cd9f-4226-a61a-f670c1e1829b"
+            },
+            {
+                "alpha": "B",
+                "text": "Migraine headache",
+                "is_correct": true,
+                "explanation": "The clinical presentation with severe headache, photophobia, phonophobia, nausea, lasting several hours, and pulsating quality is consistent with a diagnosis of migraine headache. The absence of an aura and the female gender are also supportive of this diagnosis.",
+                "id": "75f9360f-2d65-4c49-ac50-005d885951a5"
+            },
+            {
+                "alpha": "C",
+                "text": "Tension headache",
+                "is_correct": false,
+                "explanation": "Tension headaches are typically bilateral, pressing or tightening in nature, and do not have associated symptoms like photophobia, phonophobia, or nausea. The duration of tension headaches is often longer, persisting for days to weeks.",
+                "id": "1e66c78d-5c5a-4fc7-b8b4-f1ed4fa23277"
+            },
+            {
+                "alpha": "D",
+                "text": "Temporal arteritis",
+                "is_correct": false,
+                "explanation": "Temporal arteritis is characterized by headache in the temporal region along with temporal artery tenderness, jaw claudication, and visual disturbances. The described symptoms are more consistent with migraines.",
+                "id": "9610bdb0-209b-466c-b587-e2af7beb27c3"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Migraine headache",
+            "is_correct": true,
+            "explanation": "The clinical presentation with severe headache, photophobia, phonophobia, nausea, lasting several hours, and pulsating quality is consistent with a diagnosis of migraine headache. The absence of an aura and the female gender are also supportive of this diagnosis.",
+            "id": "75f9360f-2d65-4c49-ac50-005d885951a5"
+        }
+    },
+    {
+        "text": "A 42-year-old male patient complains of difficulty breathing, especially with exertion. On examination, there is diminished breath sounds and a prolonged expiratory phase. Pulmonary function tests reveal increased airway resistance. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Asthma",
+                "is_correct": true,
+                "explanation": "The clinical presentation with exertional dyspnea, diminished breath sounds, prolonged expiratory phase, and increased airway resistance on pulmonary function tests is consistent with a diagnosis of asthma. These findings suggest bronchoconstriction and airway obstruction.",
+                "id": "a09d9529-a7fe-4f30-ba6e-6834ebc1cd68"
+            },
+            {
+                "alpha": "B",
+                "text": "Chronic bronchitis",
+                "is_correct": false,
+                "explanation": "Chronic bronchitis is characterized by a chronic cough productive of sputum, but it typically does not present with diminished breath sounds or prolonged expiratory phase. Airway resistance may be normal or mildly increased.",
+                "id": "ce75d036-4dea-43a4-b5ed-b5d7256d13a1"
+            },
+            {
+                "alpha": "C",
+                "text": "Pneumonia",
+                "is_correct": false,
+                "explanation": "Pneumonia generally presents with symptoms such as fever, cough with or without sputum production, and focal chest findings like crackles. The diminished breath sounds and prolonged expiratory phase described in the question are not consistent with pneumonia.",
+                "id": "278207b6-55f7-4895-914f-d40d82933b82"
+            },
+            {
+                "alpha": "D",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism typically presents with acute onset dyspnea, pleuritic chest pain, and sometimes hemoptysis. The findings of diminished breath sounds and prolonged expiratory phase suggest airway obstruction rather than a pulmonary embolism.",
+                "id": "d9e45b7c-5888-42e4-87cb-2f728bedfcd4"
+            }
+        ],
+        "type": "amc",
+        "field": "Medicine",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Asthma",
+            "is_correct": true,
+            "explanation": "The clinical presentation with exertional dyspnea, diminished breath sounds, prolonged expiratory phase, and increased airway resistance on pulmonary function tests is consistent with a diagnosis of asthma. These findings suggest bronchoconstriction and airway obstruction.",
+            "id": "a09d9529-a7fe-4f30-ba6e-6834ebc1cd68"
+        }
+    },
+    {
+        "text": "A 65-year-old male patient presents with progressive difficulty in initiating movements, resting tremors, and muscular rigidity. On examination, there is a pill-rolling tremor, cogwheel rigidity, and bradykinesia. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Parkinson's disease",
+                "is_correct": true,
+                "explanation": "The clinical presentation with progressive difficulty in initiating movements, resting tremors (pill-rolling tremor), cogwheel rigidity, and bradykinesia is typical of Parkinson's disease, a neurodegenerative disorder affecting the dopaminergic system.",
+                "id": "3fd110c4-f3a7-4289-9670-d0cadef6383a"
+            },
+            {
+                "alpha": "B",
+                "text": "Essential tremor",
+                "is_correct": false,
+                "explanation": "Essential tremor typically presents with a postural tremor that worsens with movement, but it does not cause difficulty in initiating movements or exhibit cogwheel rigidity. Bradykinesia is also not a characteristic feature of essential tremor.",
+                "id": "6d201c0f-19ef-42f4-af5c-10751854ce04"
+            },
+            {
+                "alpha": "C",
+                "text": "Multiple sclerosis",
+                "is_correct": false,
+                "explanation": "Multiple sclerosis is a demyelinating disorder that can present with various neurological symptoms, but it does not typically cause the specific combination of symptoms described in the question, such as resting tremors, cogwheel rigidity, and bradykinesia.",
+                "id": "7a6f162e-bc33-498f-938b-68f9d8d2d79d"
+            },
+            {
+                "alpha": "D",
+                "text": "Huntington's disease",
+                "is_correct": false,
+                "explanation": "Huntington's disease is a genetic disorder characterized by chorea, psychiatric symptoms, and cognitive decline. It does not typically present with resting tremors, cogwheel rigidity, or bradykinesia.",
+                "id": "8929c531-3510-40f6-93aa-eddf9269de55"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Parkinson's disease",
+            "is_correct": true,
+            "explanation": "The clinical presentation with progressive difficulty in initiating movements, resting tremors (pill-rolling tremor), cogwheel rigidity, and bradykinesia is typical of Parkinson's disease, a neurodegenerative disorder affecting the dopaminergic system.",
+            "id": "3fd110c4-f3a7-4289-9670-d0cadef6383a"
+        }
+    },
+    {
+        "text": "A 25-year-old female presents with fatigue, weight gain, constipation, and dry skin. On examination, there is bradycardia and delayed relaxation of deep tendon reflexes. Laboratory tests reveal elevated thyroid-stimulating hormone (TSH) levels and decreased free thyroxine (T4) levels. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Grave's disease",
+                "is_correct": false,
+                "explanation": "Grave's disease is an autoimmune disorder characterized by hyperthyroidism, not hypothyroidism. The symptoms described in the question suggest hypothyroidism.",
+                "id": "d1c07463-0325-4b43-b496-9b75b5b6dd8e"
+            },
+            {
+                "alpha": "B",
+                "text": "Hashimoto's thyroiditis",
+                "is_correct": true,
+                "explanation": "The clinical presentation with fatigue, weight gain, constipation, dry skin, bradycardia, and elevated TSH levels with decreased free T4 levels is highly suggestive of Hashimoto's thyroiditis, an autoimmune disorder leading to primary hypothyroidism.",
+                "id": "ea394280-983c-4fca-84a8-1d80bf3aab2a"
+            },
+            {
+                "alpha": "C",
+                "text": "Pituitary adenoma",
+                "is_correct": false,
+                "explanation": "Pituitary adenomas can cause hormonal imbalances, including abnormal TSH levels, but they typically present with symptoms related to pituitary hormone excess or deficiency, not specific to hypothyroidism.",
+                "id": "f5890f7d-4f39-4263-9959-394e54745429"
+            },
+            {
+                "alpha": "D",
+                "text": "Adrenal insufficiency",
+                "is_correct": false,
+                "explanation": "Adrenal insufficiency typically presents with symptoms such as weakness, fatigue, hypotension, and electrolyte abnormalities. The symptoms described in the question, along with abnormal thyroid function tests, are more consistent with hypothyroidism.",
+                "id": "0558d404-82d7-4d93-91d1-5e506312d499"
+            }
+        ],
+        "type": "amc",
+        "field": "Endocrinology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Hashimoto's thyroiditis",
+            "is_correct": true,
+            "explanation": "The clinical presentation with fatigue, weight gain, constipation, dry skin, bradycardia, and elevated TSH levels with decreased free T4 levels is highly suggestive of Hashimoto's thyroiditis, an autoimmune disorder leading to primary hypothyroidism.",
+            "id": "ea394280-983c-4fca-84a8-1d80bf3aab2a"
+        }
+    },
+    {
+        "text": "A 45-year-old male patient presents with sudden onset severe abdominal pain in the epigastric region that radiates to the back. He admits to excessive alcohol intake. On examination, there is epigastric tenderness and guarding. Serum amylase and lipase levels are significantly elevated. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Cholecystitis",
+                "is_correct": false,
+                "explanation": "Cholecystitis typically presents with right upper quadrant abdominal pain, not epigastric pain. It is also not associated with elevated serum amylase and lipase levels.",
+                "id": "e807ce33-c949-4440-be43-8e5df87e9faf"
+            },
+            {
+                "alpha": "B",
+                "text": "Acute pancreatitis",
+                "is_correct": true,
+                "explanation": "The sudden onset severe abdominal pain in the epigastric region that radiates to the back, in combination with excessive alcohol intake, epigastric tenderness, guarding, and significantly elevated serum amylase and lipase levels, is highly indicative of acute pancreatitis.",
+                "id": "d80a5aec-5b97-4c2b-aa81-563e6cd6030f"
+            },
+            {
+                "alpha": "C",
+                "text": "Diverticulitis",
+                "is_correct": false,
+                "explanation": "Diverticulitis typically presents with left lower quadrant abdominal pain, not epigastric pain. Additionally, it is not associated with significantly elevated serum amylase and lipase levels.",
+                "id": "d4cf7ccc-af41-4dc5-96e1-8ea940abbf0c"
+            },
+            {
+                "alpha": "D",
+                "text": "Peptic ulcer disease",
+                "is_correct": false,
+                "explanation": "Peptic ulcer disease can cause epigastric pain, but it does not typically present with radiating pain to the back or significantly elevated serum amylase and lipase levels, as seen in acute pancreatitis.",
+                "id": "31517876-43ff-46a9-b456-a76ca1f0f9a8"
+            }
+        ],
+        "type": "amc",
+        "field": "Gastroenterology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Acute pancreatitis",
+            "is_correct": true,
+            "explanation": "The sudden onset severe abdominal pain in the epigastric region that radiates to the back, in combination with excessive alcohol intake, epigastric tenderness, guarding, and significantly elevated serum amylase and lipase levels, is highly indicative of acute pancreatitis.",
+            "id": "d80a5aec-5b97-4c2b-aa81-563e6cd6030f"
+        }
+    },
+    {
+        "text": "A 35-year-old female presents with a rash on her face, specifically on the cheeks, commonly referred to as a 'butterfly rash'. The rash worsens with sun exposure. She also complains of joint pain and swelling in multiple joints, along with morning stiffness. Laboratory tests reveal the presence of antinuclear antibodies (ANA). What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Rheumatoid arthritis",
+                "is_correct": false,
+                "explanation": "Rheumatoid arthritis typically presents with joint pain and swelling, predominantly affecting the small joints of the hands and feet. The butterfly rash on the face and positive ANA findings are suggestive of a different diagnosis.",
+                "id": "a6b09428-98b8-4b5b-98ae-abb68b6fc754"
+            },
+            {
+                "alpha": "B",
+                "text": "Systemic lupus erythematosus",
+                "is_correct": true,
+                "explanation": "The presence of a butterfly rash on the face, joint pain and swelling in multiple joints, morning stiffness, and positive ANA findings are highly suggestive of systemic lupus erythematosus (SLE). SLE is a chronic autoimmune disease that can affect various organs, including the skin and joints.",
+                "id": "74613cec-ce22-4305-b379-edb98b6d1e87"
+            },
+            {
+                "alpha": "C",
+                "text": "Gout",
+                "is_correct": false,
+                "explanation": "Gout typically presents with sudden episodes of joint pain, commonly affecting the big toe. The butterfly rash on the face and positive ANA findings are not consistent with a diagnosis of gout.",
+                "id": "82efc1a5-cbaa-47d8-9ef4-3ee4e8c9fd30"
+            },
+            {
+                "alpha": "D",
+                "text": "Psoriatic arthritis",
+                "is_correct": false,
+                "explanation": "Psoriatic arthritis is a form of inflammatory arthritis associated with psoriasis. While it can involve joint pain and skin manifestations, the specific butterfly rash on the face and positive ANA findings are more indicative of systemic lupus erythematosus.",
+                "id": "484ab71f-afce-4e16-8ff2-cdbc95cf04de"
+            }
+        ],
+        "type": "amc",
+        "field": "Rheumatology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Systemic lupus erythematosus",
+            "is_correct": true,
+            "explanation": "The presence of a butterfly rash on the face, joint pain and swelling in multiple joints, morning stiffness, and positive ANA findings are highly suggestive of systemic lupus erythematosus (SLE). SLE is a chronic autoimmune disease that can affect various organs, including the skin and joints.",
+            "id": "74613cec-ce22-4305-b379-edb98b6d1e87"
+        }
+    },
+    {
+        "text": "A 55-year-old male presents with sudden onset severe chest pain radiating to the left arm. He appears diaphoretic and is experiencing shortness of breath. On examination, there are bilateral crackles on lung auscultation and an S4 gallop on cardiac auscultation. Troponin levels are significantly elevated. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Myocardial infarction",
+                "is_correct": true,
+                "explanation": "The sudden onset severe chest pain radiating to the left arm, diaphoresis, shortness of breath, bilateral crackles on lung auscultation, elevated troponin levels, and presence of an S4 gallop on cardiac auscultation are highly indicative of a myocardial infarction. The combination of cardiac and pulmonary findings suggests acute decompensated heart failure.",
+                "id": "8f1405ff-5b4c-4daa-a73d-e79ae373b258"
+            },
+            {
+                "alpha": "B",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "While pulmonary embolism can present with chest pain and shortness of breath, the presence of bilateral crackles on lung auscultation, an S4 gallop, and significantly elevated troponin levels indicate cardiac involvement, making myocardial infarction a more likely diagnosis.",
+                "id": "f8d78b5f-5858-4c04-b708-65190646b05b"
+            },
+            {
+                "alpha": "C",
+                "text": "Pneumonia",
+                "is_correct": false,
+                "explanation": "Pneumonia typically presents with fever, productive cough, and focal findings on lung auscultation, not sudden onset severe chest pain radiating to the left arm, diaphoresis, elevated troponin levels, and an S4 gallop. The combination of cardiac and pulmonary findings suggests acute decompensated heart failure in this case.",
+                "id": "9b2b3798-d456-4b7c-b33b-4de30f2f51b1"
+            },
+            {
+                "alpha": "D",
+                "text": "Pericarditis",
+                "is_correct": false,
+                "explanation": "Pericarditis can cause chest pain that may radiate to the left arm, but it is not typically associated with diaphoresis, shortness of breath, bilateral crackles on lung auscultation, and significantly elevated troponin levels. The presence of an S4 gallop suggests myocardial involvement, making myocardial infarction a more likely diagnosis.",
+                "id": "80585a82-186e-4f50-ab0e-30d4979c6ef0"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Myocardial infarction",
+            "is_correct": true,
+            "explanation": "The sudden onset severe chest pain radiating to the left arm, diaphoresis, shortness of breath, bilateral crackles on lung auscultation, elevated troponin levels, and presence of an S4 gallop on cardiac auscultation are highly indicative of a myocardial infarction. The combination of cardiac and pulmonary findings suggests acute decompensated heart failure.",
+            "id": "8f1405ff-5b4c-4daa-a73d-e79ae373b258"
+        }
+    },
+    {
+        "text": "A 26-year-old woman presents to the emergency department with severe abdominal pain. She states that the pain started suddenly and is localized to the right lower quadrant. Upon physical examination, she has guarding and rebound tenderness in the right lower quadrant. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Appendicitis",
+                "is_correct": true,
+                "explanation": "Appendicitis commonly presents with sudden onset of abdominal pain localized to the right lower quadrant, along with guarding and rebound tenderness.",
+                "id": "2b56ec36-13dd-4a0d-add4-691dcae8d01c"
+            },
+            {
+                "alpha": "B",
+                "text": "Cholecystitis",
+                "is_correct": false,
+                "explanation": "Cholecystitis typically presents with right upper quadrant pain, not right lower quadrant pain.",
+                "id": "8574a927-ae87-4ff0-bb38-f61ca3292525"
+            },
+            {
+                "alpha": "C",
+                "text": "Diverticulitis",
+                "is_correct": false,
+                "explanation": "Diverticulitis usually presents with left lower quadrant pain, not right lower quadrant pain.",
+                "id": "d1c3887f-6b03-467e-b3c8-672a985bdda8"
+            },
+            {
+                "alpha": "D",
+                "text": "Renal colic",
+                "is_correct": false,
+                "explanation": "Renal colic typically presents with colicky flank pain radiating to the groin, not localized to the right lower quadrant.",
+                "id": "b8584f18-f10e-4d0a-8576-ac47e8620426"
+            }
+        ],
+        "type": "amc",
+        "field": "Surgery",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Appendicitis",
+            "is_correct": true,
+            "explanation": "Appendicitis commonly presents with sudden onset of abdominal pain localized to the right lower quadrant, along with guarding and rebound tenderness.",
+            "id": "2b56ec36-13dd-4a0d-add4-691dcae8d01c"
+        }
+    },
+    {
+        "text": "A 65-year-old male presents with sudden-onset severe chest pain radiating to the back. He is diaphoretic and appears anxious. On examination, his blood pressure is 160/100 mmHg, heart rate is 110 beats per minute, and respiratory rate is 22 breaths per minute. The patient is in distress and prefers to sit upright. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute myocardial infarction",
+                "is_correct": false,
+                "explanation": "Although chest pain is a symptom of acute myocardial infarction, the description of severe pain radiating to the back, along with diaphoresis and the preference for sitting upright, is suggestive of aortic dissection.",
+                "id": "9f651db4-ae43-442f-a04e-20543fdbd938"
+            },
+            {
+                "alpha": "B",
+                "text": "Aortic dissection",
+                "is_correct": true,
+                "explanation": "Aortic dissection often presents with sudden-onset severe chest pain that radiates to the back. The patient may appear anxious, be diaphoretic, and prefer sitting upright due to the involvement of the aortic arch and the stimulation of the sympathetic nervous system.",
+                "id": "f962e480-7756-4206-9ab1-067e17747726"
+            },
+            {
+                "alpha": "C",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism presents with sudden-onset pleuritic chest pain, dyspnea, tachycardia, and may lead to hemodynamic instability. The description of severe chest pain radiating to the back is more suggestive of aortic dissection.",
+                "id": "41c37897-03ec-49a9-b895-75eff3a7a659"
+            },
+            {
+                "alpha": "D",
+                "text": "Pneumothorax",
+                "is_correct": false,
+                "explanation": "Pneumothorax typically presents with sudden-onset pleuritic chest pain, dyspnea, and decreased breath sounds on affected side. The description of severe pain radiating to the back is not consistent with pneumothorax.",
+                "id": "544e6c83-ebab-4b21-8edb-4c4993d324b7"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Aortic dissection",
+            "is_correct": true,
+            "explanation": "Aortic dissection often presents with sudden-onset severe chest pain that radiates to the back. The patient may appear anxious, be diaphoretic, and prefer sitting upright due to the involvement of the aortic arch and the stimulation of the sympathetic nervous system.",
+            "id": "f962e480-7756-4206-9ab1-067e17747726"
+        }
+    },
+    {
+        "text": "A 45-year-old female presents with a gradual onset of joint pain and stiffness in her hands. She reports that the symptoms are worse in the morning and improve with movement. On examination, there is tenderness and swelling in the proximal interphalangeal joints and metacarpophalangeal joints. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Rheumatoid arthritis",
+                "is_correct": true,
+                "explanation": "The symptoms of gradual onset joint pain and stiffness in the hands, worse in the morning and improving with movement, along with the presence of symmetrical involvement of the proximal interphalangeal joints and metacarpophalangeal joints, are indicative of rheumatoid arthritis.",
+                "id": "581aa7f6-b8ec-4c8a-a5e0-46178bddd422"
+            },
+            {
+                "alpha": "B",
+                "text": "Osteoarthritis",
+                "is_correct": false,
+                "explanation": "Osteoarthritis typically presents with joint pain that worsens with activity and improves with rest. The involvement of the proximal interphalangeal joints and metacarpophalangeal joints, along with the pattern of symptoms, are more suggestive of rheumatoid arthritis.",
+                "id": "f79c8964-a4ad-47cd-8614-17bb7ea880f5"
+            },
+            {
+                "alpha": "C",
+                "text": "Gout",
+                "is_correct": false,
+                "explanation": "Gout is characterized by sudden-onset severe joint pain, often in the big toe (podagra), and is associated with elevated serum uric acid levels. The gradual onset and symmetrical involvement of multiple hand joints make gout less likely.",
+                "id": "7f3fa979-5841-4d83-9f5d-ec9718a0d61f"
+            },
+            {
+                "alpha": "D",
+                "text": "Systemic lupus erythematosus",
+                "is_correct": false,
+                "explanation": "Systemic lupus erythematosus can cause joint pain and stiffness, but it usually presents with other constitutional symptoms, such as fatigue, fever, and skin rashes. The involvement of specific hand joints and the pattern of symptoms are more suggestive of rheumatoid arthritis.",
+                "id": "9f797d08-4597-45d9-baa1-db6f74854ddd"
+            }
+        ],
+        "type": "amc",
+        "field": "Rheumatology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Rheumatoid arthritis",
+            "is_correct": true,
+            "explanation": "The symptoms of gradual onset joint pain and stiffness in the hands, worse in the morning and improving with movement, along with the presence of symmetrical involvement of the proximal interphalangeal joints and metacarpophalangeal joints, are indicative of rheumatoid arthritis.",
+            "id": "581aa7f6-b8ec-4c8a-a5e0-46178bddd422"
+        }
+    },
+    {
+        "text": "A 32-year-old female presents with recurrent episodes of severe, throbbing headache. The headache is usually unilateral and accompanied by nausea, vomiting, and photophobia. She reports that during the headache episodes, she prefers lying down in a dark, quiet room. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Migraine",
+                "is_correct": true,
+                "explanation": "The description of severe, throbbing headache that is usually unilateral and associated with symptoms like nausea, vomiting, photophobia, and the preference for lying down in a dark, quiet room are characteristic of migraines.",
+                "id": "b11cbeea-58b0-4e8d-91ae-99a537f249c0"
+            },
+            {
+                "alpha": "B",
+                "text": "Cluster headache",
+                "is_correct": false,
+                "explanation": "Cluster headaches typically present with severe unilateral periorbital pain, accompanied by ipsilateral lacrimation, nasal congestion, and rhinorrhea. The description of the headache episodes and associated symptoms are more suggestive of migraines.",
+                "id": "17a202a7-b9be-4190-b4e8-55c2e1f04b96"
+            },
+            {
+                "alpha": "C",
+                "text": "Tension headache",
+                "is_correct": false,
+                "explanation": "Tension headaches are usually described as a bilateral, dull, and pressure-like headache. The severe, throbbing nature of the headache along with the associated symptoms make tension headache less likely in this case.",
+                "id": "0de98bb2-8783-4a5d-8108-4452aa988111"
+            },
+            {
+                "alpha": "D",
+                "text": "Sinus headache",
+                "is_correct": false,
+                "explanation": "Sinus headaches are typically associated with facial pain or pressure, and often have accompanying symptoms of nasal congestion, rhinorrhea, and fever. The preference for lying down in a dark, quiet room and the absence of sinus-related symptoms make sinus headache less likely.",
+                "id": "b8478956-a980-4057-80b4-43b51f2b10aa"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Migraine",
+            "is_correct": true,
+            "explanation": "The description of severe, throbbing headache that is usually unilateral and associated with symptoms like nausea, vomiting, photophobia, and the preference for lying down in a dark, quiet room are characteristic of migraines.",
+            "id": "b11cbeea-58b0-4e8d-91ae-99a537f249c0"
+        }
+    },
+    {
+        "text": "A 60-year-old male presents with sudden-onset right-sided facial droop, difficulty speaking, and weakness of the right arm and leg. On examination, he has decreased muscle strength in the right upper and lower extremities. There is also deviation of the tongue to the right side. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Ischemic stroke",
+                "is_correct": true,
+                "explanation": "The sudden onset of right-sided facial droop, difficulty speaking, right-sided weakness in the arm and leg, and deviation of the tongue to the right side are indicative of an ischemic stroke involving the left cerebral hemisphere.",
+                "id": "ab9a2477-619b-4f70-9758-4409f0e34dab"
+            },
+            {
+                "alpha": "B",
+                "text": "Hemorrhagic stroke",
+                "is_correct": false,
+                "explanation": "Although hemorrhagic strokes can cause similar symptoms, the sudden-onset presentation and presence of multiple deficits, along with the deviation of the tongue, favor an ischemic stroke as the more likely diagnosis.",
+                "id": "96943146-c9a4-49b0-9f94-1fce094acc2b"
+            },
+            {
+                "alpha": "C",
+                "text": "Bell's palsy",
+                "is_correct": false,
+                "explanation": "Bell's palsy typically presents with sudden-onset unilateral facial droop without associated weakness of the arm and leg, and tongue deviation is not a characteristic finding.",
+                "id": "e37373dc-9bc6-472e-83f6-23e1f398592f"
+            },
+            {
+                "alpha": "D",
+                "text": "Transient ischemic attack",
+                "is_correct": false,
+                "explanation": "Transient ischemic attacks (TIAs) are characterized by temporary neurological symptoms that resolve within 24 hours. The persistence of symptoms and presence of multiple deficits make TIA less likely compared to an ischemic stroke.",
+                "id": "d2554a1c-afe2-444c-b6d4-daae41d63314"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Ischemic stroke",
+            "is_correct": true,
+            "explanation": "The sudden onset of right-sided facial droop, difficulty speaking, right-sided weakness in the arm and leg, and deviation of the tongue to the right side are indicative of an ischemic stroke involving the left cerebral hemisphere.",
+            "id": "ab9a2477-619b-4f70-9758-4409f0e34dab"
+        }
+    },
+    {
+        "text": "A 45-year-old female presents with fatigue, unintentional weight loss, and increased irritability. She reports feeling hot all the time and has noticed a change in her bowel movements, having more frequent stools. On examination, her thyroid gland is diffusely enlarged and non-tender. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Graves' disease",
+                "is_correct": true,
+                "explanation": "The symptoms of fatigue, unintentional weight loss, increased irritability, feeling hot, and changes in bowel movements, along with the diffuse enlargement of the thyroid gland, are consistent with Graves' disease, an autoimmune disorder causing hyperthyroidism.",
+                "id": "23d7cf9d-81b5-416e-9f40-697fc7ef349b"
+            },
+            {
+                "alpha": "B",
+                "text": "Hashimoto's thyroiditis",
+                "is_correct": false,
+                "explanation": "Hashimoto's thyroiditis is an autoimmune disorder causing hypothyroidism. The symptoms described, along with the non-tender diffuse enlargement of the thyroid gland, are more indicative of hyperthyroidism seen in Graves' disease.",
+                "id": "98854033-ba89-4de5-b6e2-6c0107eac043"
+            },
+            {
+                "alpha": "C",
+                "text": "Thyroid nodules",
+                "is_correct": false,
+                "explanation": "Thyroid nodules are usually associated with a solitary palpable nodule or multiple nodules. The diffuse enlargement of the thyroid gland, along with the characteristic symptoms, suggest a systemic rather than focal thyroid disorder.",
+                "id": "eab9a5da-b38a-47dc-9b29-7e7dc535e60f"
+            },
+            {
+                "alpha": "D",
+                "text": "Thyroid cancer",
+                "is_correct": false,
+                "explanation": "Thyroid cancer is less likely to present with diffuse enlargement of the thyroid gland, and the symptoms described are more indicative of thyroid hormone excess seen in Graves' disease.",
+                "id": "5aab874a-b172-46a3-9afe-448ca863a57b"
+            }
+        ],
+        "type": "amc",
+        "field": "Endocrinology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Graves' disease",
+            "is_correct": true,
+            "explanation": "The symptoms of fatigue, unintentional weight loss, increased irritability, feeling hot, and changes in bowel movements, along with the diffuse enlargement of the thyroid gland, are consistent with Graves' disease, an autoimmune disorder causing hyperthyroidism.",
+            "id": "23d7cf9d-81b5-416e-9f40-697fc7ef349b"
+        }
+    },
+    {
+        "text": "A 68-year-old male presents with dyspnea on exertion, fatigue, and pedal edema. On physical examination, he has elevated jugular venous pressure, an S3 gallop, and crackles on lung auscultation. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Aortic stenosis",
+                "is_correct": false,
+                "explanation": "Aortic stenosis typically presents with symptoms of chest pain, syncope, or presyncope. It is unlikely to cause pedal edema and crackles on lung auscultation.",
+                "id": "bb3d08ff-05ed-4ee6-a7dd-3e86e4225f5c"
+            },
+            {
+                "alpha": "B",
+                "text": "Heart failure with reduced ejection fraction",
+                "is_correct": true,
+                "explanation": "Heart failure with reduced ejection fraction (HFrEF) commonly presents with dyspnea on exertion, fatigue, pedal edema, elevated jugular venous pressure, S3 gallop, and crackles on lung auscultation.",
+                "id": "9b01b227-3027-4b75-aebe-2d24fb277048"
+            },
+            {
+                "alpha": "C",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism typically presents with sudden onset dyspnea, pleuritic chest pain, and occasionally hemoptysis. Pedal edema, elevated jugular venous pressure, and crackles on lung auscultation are not typical findings.",
+                "id": "f8063155-d22e-477b-a838-c56f7c8d7a7d"
+            },
+            {
+                "alpha": "D",
+                "text": "Hypertrophic cardiomyopathy",
+                "is_correct": false,
+                "explanation": "Hypertrophic cardiomyopathy commonly presents with dyspnea on exertion, angina, syncope, or palpitations. Pedal edema, elevated jugular venous pressure, and crackles on lung auscultation are not typical findings.",
+                "id": "a0a9430b-aa18-43cf-8fe8-d1d8a2523139"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Heart failure with reduced ejection fraction",
+            "is_correct": true,
+            "explanation": "Heart failure with reduced ejection fraction (HFrEF) commonly presents with dyspnea on exertion, fatigue, pedal edema, elevated jugular venous pressure, S3 gallop, and crackles on lung auscultation.",
+            "id": "9b01b227-3027-4b75-aebe-2d24fb277048"
+        }
+    },
+    {
+        "text": "A previously healthy 25-year-old female presents with a fever, sore throat, and swollen cervical lymph nodes. On physical examination, she has tonsillar exudates and tender anterior cervical lymphadenopathy. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Viral pharyngitis",
+                "is_correct": false,
+                "explanation": "Viral pharyngitis typically presents with a sore throat, but does not commonly have tonsillar exudates or tender anterior cervical lymphadenopathy.",
+                "id": "fde3e6ee-db06-400b-890c-fd7e62850a46"
+            },
+            {
+                "alpha": "B",
+                "text": "Streptococcal pharyngitis",
+                "is_correct": true,
+                "explanation": "Streptococcal pharyngitis (commonly caused by Group A Streptococcus) often presents with a sore throat, tonsillar exudates, and tender anterior cervical lymphadenopathy.",
+                "id": "ffea0fa7-5a8c-4bd0-b2f9-ee2779c8383e"
+            },
+            {
+                "alpha": "C",
+                "text": "Mononucleosis",
+                "is_correct": false,
+                "explanation": "Mononucleosis (caused by Epstein-Barr virus) typically presents with a sore throat, fever, tonsillar exudates, and posterior cervical lymphadenopathy.",
+                "id": "0b8ae897-8d39-4083-b39b-a6fecdb5eae5"
+            },
+            {
+                "alpha": "D",
+                "text": "Diphtheria",
+                "is_correct": false,
+                "explanation": "Diphtheria is a rare bacterial infection that typically presents with a gray-white membrane on the tonsils and pharynx, rather than tonsillar exudates and tender anterior cervical lymphadenopathy.",
+                "id": "3e1c22cf-1bcf-4ac8-956f-8102359ce670"
+            }
+        ],
+        "type": "amc",
+        "field": "Infectious Diseases",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Streptococcal pharyngitis",
+            "is_correct": true,
+            "explanation": "Streptococcal pharyngitis (commonly caused by Group A Streptococcus) often presents with a sore throat, tonsillar exudates, and tender anterior cervical lymphadenopathy.",
+            "id": "ffea0fa7-5a8c-4bd0-b2f9-ee2779c8383e"
+        }
+    },
+    {
+        "text": "A 32-year-old woman presents with abdominal pain localized to the right lower quadrant. On physical examination, there is tenderness and guarding in the right lower quadrant. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Appendicitis",
+                "is_correct": true,
+                "explanation": "Appendicitis commonly presents with abdominal pain localized to the right lower quadrant, along with tenderness and guarding on physical examination.",
+                "id": "27df8dc1-b1db-4871-a0c3-c87aead6a386"
+            },
+            {
+                "alpha": "B",
+                "text": "Cholecystitis",
+                "is_correct": false,
+                "explanation": "Cholecystitis typically presents with right upper quadrant abdominal pain, not in the right lower quadrant.",
+                "id": "fdc7b057-84de-4a7b-95ac-6b61549ff623"
+            },
+            {
+                "alpha": "C",
+                "text": "Diverticulitis",
+                "is_correct": false,
+                "explanation": "Diverticulitis commonly presents with left lower quadrant abdominal pain, not in the right lower quadrant.",
+                "id": "be72c223-9dec-4456-9cd0-dc21cd7d8510"
+            },
+            {
+                "alpha": "D",
+                "text": "Pancreatitis",
+                "is_correct": false,
+                "explanation": "Pancreatitis often presents with epigastric or left upper quadrant abdominal pain, not in the right lower quadrant.",
+                "id": "39815f3d-6262-4b0d-a832-c03a54cd5768"
+            }
+        ],
+        "type": "amc",
+        "field": "Medicine",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Appendicitis",
+            "is_correct": true,
+            "explanation": "Appendicitis commonly presents with abdominal pain localized to the right lower quadrant, along with tenderness and guarding on physical examination.",
+            "id": "27df8dc1-b1db-4871-a0c3-c87aead6a386"
+        }
+    },
+    {
+        "text": "A 55-year-old male smoker presents with progressive dyspnea, chronic cough, and weight loss. On physical examination, decreased breath sounds and dullness to percussion are noted over the right lung base. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Lung cancer",
+                "is_correct": true,
+                "explanation": "The symptoms of progressive dyspnea, chronic cough, weight loss, along with decreased breath sounds and dullness to percussion over a lung base are highly suggestive of lung cancer, especially in a smoker.",
+                "id": "ed286cf5-f0d7-4ed0-a356-0078bf626828"
+            },
+            {
+                "alpha": "B",
+                "text": "Chronic obstructive pulmonary disease (COPD)",
+                "is_correct": false,
+                "explanation": "While COPD can cause dyspnea and chronic cough in smokers, the presence of decreased breath sounds and dullness to percussion suggest a localized lung pathology.",
+                "id": "26907bd1-4335-4930-b930-c5703071100a"
+            },
+            {
+                "alpha": "C",
+                "text": "Pneumonia",
+                "is_correct": false,
+                "explanation": "Pneumonia typically presents with fever, productive cough, and focal findings on examination, such as crackles and increased breath sounds, rather than decreased breath sounds and dullness to percussion.",
+                "id": "0496b967-e68a-464d-a915-f0efeca69bc4"
+            },
+            {
+                "alpha": "D",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism usually presents with sudden-onset dyspnea, pleuritic chest pain, and may be associated with tachycardia and hypoxemia. Decreased breath sounds and dullness to percussion are not typical findings.",
+                "id": "70c26848-8585-4e05-9e68-240a400bf3dc"
+            }
+        ],
+        "type": "amc",
+        "field": "Respiratory",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Lung cancer",
+            "is_correct": true,
+            "explanation": "The symptoms of progressive dyspnea, chronic cough, weight loss, along with decreased breath sounds and dullness to percussion over a lung base are highly suggestive of lung cancer, especially in a smoker.",
+            "id": "ed286cf5-f0d7-4ed0-a356-0078bf626828"
+        }
+    },
+    {
+        "text": "A 40-year-old female presents with a sudden severe headache, neck stiffness, and photophobia. On physical examination, Kernig and Brudzinski signs are positive. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Subarachnoid hemorrhage",
+                "is_correct": true,
+                "explanation": "The sudden severe headache, neck stiffness, and positive Kernig and Brudzinski signs are highly indicative of a subarachnoid hemorrhage, which commonly presents with these clinical features.",
+                "id": "2e88dde2-9210-4cbf-a331-d5fb32f88424"
+            },
+            {
+                "alpha": "B",
+                "text": "Migraine",
+                "is_correct": false,
+                "explanation": "While migraines can cause severe headaches, they typically do not cause neck stiffness and positive Kernig and Brudzinski signs, which are more suggestive of meningeal irritation.",
+                "id": "8435acdd-47d6-4af0-a8c6-7fb01019e97a"
+            },
+            {
+                "alpha": "C",
+                "text": "Tension headache",
+                "is_correct": false,
+                "explanation": "Tension headaches typically present as a bilateral dull, aching pain without associated neck stiffness or positive meningismus signs.",
+                "id": "d7d1e909-b020-499a-a09b-50bfe86e8e30"
+            },
+            {
+                "alpha": "D",
+                "text": "Cluster headache",
+                "is_correct": false,
+                "explanation": "Cluster headaches are characterized by severe unilateral periorbital pain, often associated with autonomic symptoms, but they do not cause neck stiffness or positive meningismus signs.",
+                "id": "f104c78f-a443-4732-96c9-ceb60bfa29f4"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Subarachnoid hemorrhage",
+            "is_correct": true,
+            "explanation": "The sudden severe headache, neck stiffness, and positive Kernig and Brudzinski signs are highly indicative of a subarachnoid hemorrhage, which commonly presents with these clinical features.",
+            "id": "2e88dde2-9210-4cbf-a331-d5fb32f88424"
+        }
+    },
+    {
+        "text": "A 30-year-old female presents with a new-onset sudden headache, double vision, and difficulty chewing. On physical examination, there is limitation of upward gaze and ptosis. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Myasthenia gravis",
+                "is_correct": true,
+                "explanation": "The sudden headache, double vision, difficulty chewing, limitation of upward gaze, and ptosis are characteristic of myasthenia gravis, an autoimmune disorder that affects neuromuscular transmission.",
+                "id": "20d09c02-e74d-48fc-b060-469a0dcf96c4"
+            },
+            {
+                "alpha": "B",
+                "text": "Migraine",
+                "is_correct": false,
+                "explanation": "While migraines can cause severe headaches and visual disturbances, they typically do not cause double vision, difficulty chewing, limitation of upward gaze, and ptosis.",
+                "id": "59ddb2ac-f6b8-4682-a016-3394c5a318ab"
+            },
+            {
+                "alpha": "C",
+                "text": "Temporal arteritis",
+                "is_correct": false,
+                "explanation": "Temporal arteritis usually presents with a headache localized to the temporal region, scalp tenderness, and jaw claudication. It does not typically cause double vision, difficulty chewing, and specific eye movement abnormalities.",
+                "id": "173a1756-9cb6-4991-b6a2-bef4f4b67668"
+            },
+            {
+                "alpha": "D",
+                "text": "Cluster headache",
+                "is_correct": false,
+                "explanation": "Cluster headaches are characterized by severe unilateral periorbital pain and may involve autonomic symptoms, but they do not cause double vision, difficulty chewing, and specific eye movement abnormalities.",
+                "id": "6f86982b-b2ed-4971-a079-d768458d372f"
+            }
+        ],
+        "type": "amc",
+        "field": "Ophthalmology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Myasthenia gravis",
+            "is_correct": true,
+            "explanation": "The sudden headache, double vision, difficulty chewing, limitation of upward gaze, and ptosis are characteristic of myasthenia gravis, an autoimmune disorder that affects neuromuscular transmission.",
+            "id": "20d09c02-e74d-48fc-b060-469a0dcf96c4"
+        }
+    },
+    {
+        "text": "A 25-year-old female presents with fatigue, weight gain, cold intolerance, and constipation. On physical examination, her skin is dry and there is diffuse non-pitting edema. Laboratory tests reveal elevated thyroid-stimulating hormone (TSH) levels and decreased free thyroxine (T4) levels. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Hypothyroidism",
+                "is_correct": true,
+                "explanation": "The presence of fatigue, weight gain, cold intolerance, constipation, dry skin, diffuse non-pitting edema, elevated TSH levels, and decreased free T4 levels are consistent with hypothyroidism. These findings indicate an underactive thyroid gland.",
+                "id": "482738c2-9a74-433f-a598-2ac55bd57f9d"
+            },
+            {
+                "alpha": "B",
+                "text": "Hyperthyroidism",
+                "is_correct": false,
+                "explanation": "Hyperthyroidism typically presents with symptoms such as weight loss, heat intolerance, palpitations, and tremors. It is characterized by decreased TSH levels and increased free T4 levels, in contrast to the findings in this patient.",
+                "id": "df3efabc-10e4-4318-8973-3b1cef0a98ed"
+            },
+            {
+                "alpha": "C",
+                "text": "Cushing's syndrome",
+                "is_correct": false,
+                "explanation": "Cushing's syndrome is characterized by features such as weight gain, central obesity, moon facies, easy bruising, and hypertension. It is not associated with cold intolerance, constipation, or specific thyroid function test abnormalities.",
+                "id": "36789303-fc48-433f-8ddc-2114d0028b9e"
+            },
+            {
+                "alpha": "D",
+                "text": "Diabetes mellitus",
+                "is_correct": false,
+                "explanation": "Diabetes mellitus is a metabolic disorder characterized by elevated blood glucose levels. It does not typically present with symptoms of fatigue, weight gain, cold intolerance, dry skin, diffuse non-pitting edema, and abnormalities in thyroid function tests.",
+                "id": "0c9bc032-d8b0-41f3-810f-742f19ba71f0"
+            }
+        ],
+        "type": "amc",
+        "field": "Endocrinology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Hypothyroidism",
+            "is_correct": true,
+            "explanation": "The presence of fatigue, weight gain, cold intolerance, constipation, dry skin, diffuse non-pitting edema, elevated TSH levels, and decreased free T4 levels are consistent with hypothyroidism. These findings indicate an underactive thyroid gland.",
+            "id": "482738c2-9a74-433f-a598-2ac55bd57f9d"
+        }
+    },
+    {
+        "text": "A 55-year-old male with a history of hypertension and diabetes presents with sudden onset severe headache, vomiting, and altered consciousness. On physical examination, there is neck stiffness and positive Kernig and Brudzinski signs. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Subarachnoid hemorrhage",
+                "is_correct": true,
+                "explanation": "The sudden onset severe headache, vomiting, altered consciousness, neck stiffness, and positive Kernig and Brudzinski signs are highly indicative of a subarachnoid hemorrhage. This is a medical emergency caused by bleeding into the subarachnoid space.",
+                "id": "09045d48-f2e9-4901-9014-140452df3893"
+            },
+            {
+                "alpha": "B",
+                "text": "Migraine",
+                "is_correct": false,
+                "explanation": "While migraines can cause severe headaches, they typically do not present with altered consciousness, neck stiffness, and positive Kernig and Brudzinski signs.",
+                "id": "76a617aa-dd1e-4358-ac7f-7304b1ab66d3"
+            },
+            {
+                "alpha": "C",
+                "text": "Hypertensive encephalopathy",
+                "is_correct": false,
+                "explanation": "Hypertensive encephalopathy usually presents with symptoms such as severe hypertension, headache, altered mental status, and seizures. It does not typically cause neck stiffness and specific meningeal signs.",
+                "id": "b5250f8d-6bfc-4217-9ce2-0b38080d7a9d"
+            },
+            {
+                "alpha": "D",
+                "text": "Parkinson's disease",
+                "is_correct": false,
+                "explanation": "Parkinson's disease is a chronic neurodegenerative disorder characterized by motor symptoms such as tremors, rigidity, and bradykinesia. It does not cause sudden severe headache, vomiting, altered consciousness, neck stiffness, and meningeal signs.",
+                "id": "b06c6732-932a-4683-9456-9084baa679f2"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Subarachnoid hemorrhage",
+            "is_correct": true,
+            "explanation": "The sudden onset severe headache, vomiting, altered consciousness, neck stiffness, and positive Kernig and Brudzinski signs are highly indicative of a subarachnoid hemorrhage. This is a medical emergency caused by bleeding into the subarachnoid space.",
+            "id": "09045d48-f2e9-4901-9014-140452df3893"
+        }
+    },
+    {
+        "text": "A 60-year-old male presents with chest pain that worsens with exertion and improves with rest. On physical examination, he has normal vital signs and no abnormal findings. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Stable angina",
+                "is_correct": true,
+                "explanation": "The chest pain that worsens with exertion and improves with rest is consistent with stable angina. It is caused by temporary narrowing of the coronary arteries, resulting in decreased blood flow to the heart muscle.",
+                "id": "784e4d3d-1b3b-4265-b487-b3fc710027b2"
+            },
+            {
+                "alpha": "B",
+                "text": "Myocardial infarction",
+                "is_correct": false,
+                "explanation": "Myocardial infarction (heart attack) usually presents with prolonged chest pain that is not relieved by rest. It is often associated with significant ECG changes and elevated cardiac biomarkers.",
+                "id": "0f6e9d78-d380-4a65-b6e1-6013487f07a9"
+            },
+            {
+                "alpha": "C",
+                "text": "Gastroesophageal reflux disease (GERD)",
+                "is_correct": false,
+                "explanation": "GERD can cause chest pain, but it is typically not exertional and does not improve with rest. It is often associated with symptoms such as acid reflux and regurgitation.",
+                "id": "bcba53a2-97a4-4a62-8f31-1ebf4f487110"
+            },
+            {
+                "alpha": "D",
+                "text": "Pneumonia",
+                "is_correct": false,
+                "explanation": "Pneumonia usually presents with symptoms such as fever, productive cough, and focal findings on examination such as crackles in the lungs. It is not typically associated with chest pain worsened by exertion.",
+                "id": "8c890824-16e8-48ed-84e4-7494b5058ddc"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Stable angina",
+            "is_correct": true,
+            "explanation": "The chest pain that worsens with exertion and improves with rest is consistent with stable angina. It is caused by temporary narrowing of the coronary arteries, resulting in decreased blood flow to the heart muscle.",
+            "id": "784e4d3d-1b3b-4265-b487-b3fc710027b2"
+        }
+    },
+    {
+        "text": "A 35-year-old female presents with sudden-onset severe abdominal pain and tenderness in the lower right quadrant. On physical examination, rebound tenderness and guarding are noted. Which of the following is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Appendicitis",
+                "is_correct": true,
+                "explanation": "The sudden-onset severe abdominal pain and tenderness in the lower right quadrant, along with rebound tenderness and guarding, are highly suggestive of appendicitis. Appendicitis commonly presents with these clinical features.",
+                "id": "660ec09e-ae2a-4934-99ee-508d4136e5ab"
+            },
+            {
+                "alpha": "B",
+                "text": "Cholecystitis",
+                "is_correct": false,
+                "explanation": "Cholecystitis typically presents with right upper quadrant abdominal pain, not in the lower right quadrant. It is often associated with symptoms such as fever, nausea, and jaundice.",
+                "id": "a42eed9e-576c-4fc4-9230-eb4e53e261dd"
+            },
+            {
+                "alpha": "C",
+                "text": "Diverticulitis",
+                "is_correct": false,
+                "explanation": "Diverticulitis commonly presents with left lower quadrant abdominal pain, not in the lower right quadrant. It is associated with symptoms such as fever, altered bowel habits, and leukocytosis.",
+                "id": "a62fa4fa-0fb1-40cb-838d-cda5dcdf8a9f"
+            },
+            {
+                "alpha": "D",
+                "text": "Gastric ulcer",
+                "is_correct": false,
+                "explanation": "Gastric ulcer can cause abdominal pain, but it does not typically present with sudden-onset severe pain and tenderness in the lower right quadrant. It is often associated with symptoms such as dyspepsia and melena.",
+                "id": "027d8048-1fc8-44fe-9e6e-b855afb6ed7b"
+            }
+        ],
+        "type": "amc",
+        "field": "Surgery",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Appendicitis",
+            "is_correct": true,
+            "explanation": "The sudden-onset severe abdominal pain and tenderness in the lower right quadrant, along with rebound tenderness and guarding, are highly suggestive of appendicitis. Appendicitis commonly presents with these clinical features.",
+            "id": "660ec09e-ae2a-4934-99ee-508d4136e5ab"
+        }
+    },
+    {
+        "text": "A 65-year-old male patient presents with sudden onset severe chest pain radiating to his left arm. He appears diaphoretic and anxious. His blood pressure is 110/70 mmHg and heart rate is 90 beats per minute. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism typically presents with sudden dyspnea, pleuritic chest pain, and tachycardia, but not chest pain radiating to the left arm.",
+                "id": "50705ace-a46d-4387-820c-900f1b010baf"
+            },
+            {
+                "alpha": "B",
+                "text": "Gastroesophageal reflux disease (GERD)",
+                "is_correct": false,
+                "explanation": "GERD presents with burning retrosternal chest pain, but not severe chest pain radiating to the left arm.",
+                "id": "47689c71-f219-466e-a688-930f2c23eb9f"
+            },
+            {
+                "alpha": "C",
+                "text": "Acute myocardial infarction (AMI)",
+                "is_correct": true,
+                "explanation": "AMI presents with severe chest pain radiating to the left arm, diaphoresis, and a combination of low blood pressure and tachycardia.",
+                "id": "ab6c3f0b-40ec-460d-a5f5-d444c5765da8"
+            },
+            {
+                "alpha": "D",
+                "text": "Pneumothorax",
+                "is_correct": false,
+                "explanation": "Pneumothorax typically presents with sudden onset pleuritic chest pain and decreased breath sounds, but not chest pain radiating to the left arm.",
+                "id": "56194400-ce7c-4bbb-b95e-8d8c6a74e488"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "C",
+            "text": "Acute myocardial infarction (AMI)",
+            "is_correct": true,
+            "explanation": "AMI presents with severe chest pain radiating to the left arm, diaphoresis, and a combination of low blood pressure and tachycardia.",
+            "id": "ab6c3f0b-40ec-460d-a5f5-d444c5765da8"
+        }
+    },
+    {
+        "text": "A 42-year-old female presents with fatigue and weight gain. On examination, she has coarse hair, dry skin, and swelling of the face and eyelids. She also complains of constipation. Laboratory tests show elevated thyroid-stimulating hormone (TSH) and low free thyroxine (T4) levels. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Graves' disease",
+                "is_correct": false,
+                "explanation": "Graves' disease is an autoimmune disorder that typically presents with hyperthyroidism, not hypothyroidism.",
+                "id": "a972271a-6a46-4380-9aa1-7130621661e8"
+            },
+            {
+                "alpha": "B",
+                "text": "Hashimoto's thyroiditis",
+                "is_correct": true,
+                "explanation": "Hashimoto's thyroiditis is an autoimmune disorder that leads to primary hypothyroidism characterized by an elevated TSH level and low T4 level.",
+                "id": "90547b56-f7e4-41e4-8928-5c3ef7396603"
+            },
+            {
+                "alpha": "C",
+                "text": "Pituitary adenoma",
+                "is_correct": false,
+                "explanation": "Pituitary adenoma can cause hormonal imbalances but typically presents with symptoms specific to the anterior pituitary hormones, not hypothyroidism.",
+                "id": "09a33f57-46b6-43d0-a606-de3cabb10c5e"
+            },
+            {
+                "alpha": "D",
+                "text": "Thyroid storm",
+                "is_correct": false,
+                "explanation": "Thyroid storm is a life-threatening form of hyperthyroidism characterized by severe manifestations of hyperthyroidism, not hypothyroidism.",
+                "id": "c80e2541-61e4-43ee-b884-5502554e0d70"
+            }
+        ],
+        "type": "amc",
+        "field": "Endocrinology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Hashimoto's thyroiditis",
+            "is_correct": true,
+            "explanation": "Hashimoto's thyroiditis is an autoimmune disorder that leads to primary hypothyroidism characterized by an elevated TSH level and low T4 level.",
+            "id": "90547b56-f7e4-41e4-8928-5c3ef7396603"
+        }
+    },
+    {
+        "text": "A 25-year-old female presents with a sore throat, difficulty swallowing, and fever. On examination, she has tonsillar erythema with exudates, cervical lymphadenopathy, and absence of cough. Her rapid streptococcal antigen test is positive. What is the most appropriate next step in management?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Prescribe amoxicillin-clavulanate",
+                "is_correct": true,
+                "explanation": "Based on the positive streptococcal antigen test and clinical presentation consistent with bacterial pharyngitis, treatment with amoxicillin-clavulanate is recommended.",
+                "id": "a753ae98-6fb1-4ef6-9781-b2de47a7ec6a"
+            },
+            {
+                "alpha": "B",
+                "text": "Prescribe oral corticosteroids",
+                "is_correct": false,
+                "explanation": "Oral corticosteroids are not indicated as initial treatment for bacterial pharyngitis.",
+                "id": "c91404d0-3b71-4abc-8b31-34d52f497242"
+            },
+            {
+                "alpha": "C",
+                "text": "Administer intravenous antibiotics",
+                "is_correct": false,
+                "explanation": "Intravenous antibiotics are not necessary for the management of uncomplicated bacterial pharyngitis.",
+                "id": "e3cccb62-2e27-4efc-82f0-0fa1b6051bef"
+            },
+            {
+                "alpha": "D",
+                "text": "Perform a throat culture",
+                "is_correct": false,
+                "explanation": "While throat culture is useful for confirming the diagnosis, it is not necessary when the rapid streptococcal antigen test is positive and the clinical presentation is consistent with bacterial pharyngitis.",
+                "id": "d3df0c5d-2d43-493a-ae22-badb1e431e79"
+            }
+        ],
+        "type": "amc",
+        "field": "Infectious Diseases",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Prescribe amoxicillin-clavulanate",
+            "is_correct": true,
+            "explanation": "Based on the positive streptococcal antigen test and clinical presentation consistent with bacterial pharyngitis, treatment with amoxicillin-clavulanate is recommended.",
+            "id": "a753ae98-6fb1-4ef6-9781-b2de47a7ec6a"
+        }
+    },
+    {
+        "text": "A 65-year-old male patient presents with progressive dyspnea on exertion, dry cough, and chest tightness. He has a history of smoking for 30 years. On examination, decreased breath sounds and inspiratory crackles are heard in both lung fields. A chest X-ray reveals bilateral reticular opacities with honeycombing predominantly in the lower lung zones. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism typically presents with acute-onset dyspnea, pleuritic chest pain, and tachycardia. It does not cause progressive dyspnea and chronic lung findings.",
+                "id": "d78eedb4-57ea-466c-bfdd-eb72da42bade"
+            },
+            {
+                "alpha": "B",
+                "text": "Pneumothorax",
+                "is_correct": false,
+                "explanation": "Pneumothorax presents with sudden-onset pleuritic chest pain, dyspnea, and decreased breath sounds. It does not cause progressive dyspnea and chronic lung findings.",
+                "id": "cb29c0ff-9a73-4dd8-bdc4-82d6491afffb"
+            },
+            {
+                "alpha": "C",
+                "text": "COPD (Chronic obstructive pulmonary disease)",
+                "is_correct": false,
+                "explanation": "COPD typically presents with chronic dyspnea, productive cough, and wheezing. It does not manifest with bilateral reticular opacities and honeycombing on chest X-ray.",
+                "id": "f94e6268-e269-43f0-b4ce-7f85e318aa2d"
+            },
+            {
+                "alpha": "D",
+                "text": "Idiopathic pulmonary fibrosis",
+                "is_correct": true,
+                "explanation": "Idiopathic pulmonary fibrosis is characterized by progressive dyspnea on exertion, dry cough, bilateral reticular opacities, and honeycombing on chest X-ray, commonly seen in older individuals with a history of smoking.",
+                "id": "1774009c-9df7-470c-bbcc-c8c091038400"
+            }
+        ],
+        "type": "amc",
+        "field": "Pulmonology",
+        "correct_option": {
+            "alpha": "D",
+            "text": "Idiopathic pulmonary fibrosis",
+            "is_correct": true,
+            "explanation": "Idiopathic pulmonary fibrosis is characterized by progressive dyspnea on exertion, dry cough, bilateral reticular opacities, and honeycombing on chest X-ray, commonly seen in older individuals with a history of smoking.",
+            "id": "1774009c-9df7-470c-bbcc-c8c091038400"
+        }
+    },
+    {
+        "text": "A 40-year-old female presents with a sudden-onset severe headache, neck stiffness, photophobia, and fever. On examination, her neck is stiff, and Kernig and Brudzinski signs are positive. Lumbar puncture shows elevated opening pressure and cloudy cerebrospinal fluid (CSF). What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Migraine headache",
+                "is_correct": false,
+                "explanation": "Migraine headaches do not typically present with neck stiffness or positive Kernig and Brudzinski signs. They also do not cause cloudy CSF.",
+                "id": "312a8ea5-b110-4667-8308-2ea34cef17f3"
+            },
+            {
+                "alpha": "B",
+                "text": "Cluster headache",
+                "is_correct": false,
+                "explanation": "Cluster headaches do not present with neck stiffness, positive Kernig and Brudzinski signs, or cloudy CSF.",
+                "id": "0df894fe-3cd3-482a-b286-89c0ecb27273"
+            },
+            {
+                "alpha": "C",
+                "text": "Meningitis",
+                "is_correct": true,
+                "explanation": "The sudden-onset severe headache, neck stiffness, photophobia, fever, positive Kernig and Brudzinski signs, and cloudy CSF findings are consistent with meningitis.",
+                "id": "54b44dda-3d90-48b5-a03f-bab20036076d"
+            },
+            {
+                "alpha": "D",
+                "text": "Tension headache",
+                "is_correct": false,
+                "explanation": "Tension headaches do not typically present with neck stiffness, positive Kernig and Brudzinski signs, or cloudy CSF.",
+                "id": "e53ba948-b04b-4fed-9074-15d4d31a6d04"
+            }
+        ],
+        "type": "amc",
+        "field": "Neurology",
+        "correct_option": {
+            "alpha": "C",
+            "text": "Meningitis",
+            "is_correct": true,
+            "explanation": "The sudden-onset severe headache, neck stiffness, photophobia, fever, positive Kernig and Brudzinski signs, and cloudy CSF findings are consistent with meningitis.",
+            "id": "54b44dda-3d90-48b5-a03f-bab20036076d"
+        }
+    },
+    {
+        "text": "A 32-year-old female presents with a painless lump in her breast that was discovered during a self-examination. On physical examination, there is a firm, non-tender, mobile mass in the upper outer quadrant of the left breast. Mammography shows a well-defined, round mass with smooth borders. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Breast abscess",
+                "is_correct": false,
+                "explanation": "Breast abscesses typically present with localized erythema, warmth, and tenderness.",
+                "id": "7682dbe1-242c-402f-9a89-38cf868377ea"
+            },
+            {
+                "alpha": "B",
+                "text": "Fibroadenoma",
+                "is_correct": true,
+                "explanation": "Fibroadenomas are benign breast masses that usually manifest as painless, mobile, and well-defined lumps.",
+                "id": "75d6fa07-66b0-40e8-958f-178891516d81"
+            },
+            {
+                "alpha": "C",
+                "text": "Intraductal papilloma",
+                "is_correct": false,
+                "explanation": "Intraductal papillomas commonly present with nipple discharge, usually bloody, from a single duct orifice.",
+                "id": "dd2c173f-506d-4fb1-ae5e-fb0d28e4ebdf"
+            },
+            {
+                "alpha": "D",
+                "text": "Phyllodes tumor",
+                "is_correct": false,
+                "explanation": "Phyllodes tumors are rare breast neoplasms that typically present as large, rapidly growing masses with cystic components.",
+                "id": "67184947-6eec-4311-8bfe-4bb98fab92ce"
+            }
+        ],
+        "type": "amc",
+        "field": "Surgery",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Fibroadenoma",
+            "is_correct": true,
+            "explanation": "Fibroadenomas are benign breast masses that usually manifest as painless, mobile, and well-defined lumps.",
+            "id": "75d6fa07-66b0-40e8-958f-178891516d81"
+        }
+    },
+    {
+        "text": "A 68-year-old male presents with painless, gross hematuria. He has a 40 pack-year smoking history. On physical examination, there are no palpable abdominal masses or lymphadenopathy. Urine microscopy shows numerous erythrocytes but no casts or proteinuria. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Bladder stones",
+                "is_correct": false,
+                "explanation": "Bladder stones typically present with recurrent urinary tract infections, dysuria, and lower abdominal pain.",
+                "id": "e33dbc5f-4f88-4d1a-8bc5-4e9a11f84432"
+            },
+            {
+                "alpha": "B",
+                "text": "Benign prostatic hyperplasia (BPH)",
+                "is_correct": false,
+                "explanation": "BPH commonly presents with obstructive urinary symptoms such as nocturia, decreased urine flow, and urinary retention.",
+                "id": "fb9a67c6-6303-4393-b44c-dc8da247078a"
+            },
+            {
+                "alpha": "C",
+                "text": "Bladder cancer",
+                "is_correct": true,
+                "explanation": "Bladder cancer is the most likely diagnosis in this patient with painless gross hematuria, especially in the setting of smoking history.",
+                "id": "aa73a365-c7d1-4a86-94ad-741d79822b25"
+            },
+            {
+                "alpha": "D",
+                "text": "Urinary tract infection (UTI)",
+                "is_correct": false,
+                "explanation": "While UTI can cause hematuria, it typically presents with dysuria, urinary frequency, and urgency.",
+                "id": "e5cda8a2-3b08-45b0-8687-6ff0f49c049c"
+            }
+        ],
+        "type": "amc",
+        "field": "Urology",
+        "correct_option": {
+            "alpha": "C",
+            "text": "Bladder cancer",
+            "is_correct": true,
+            "explanation": "Bladder cancer is the most likely diagnosis in this patient with painless gross hematuria, especially in the setting of smoking history.",
+            "id": "aa73a365-c7d1-4a86-94ad-741d79822b25"
+        }
+    },
+    {
+        "text": "A 40-year-old female presents with severe lower abdominal pain that is worsened with movement. On examination, her abdomen is tender to palpation and there is rebound tenderness. She has a low-grade fever. Pelvic ultrasound shows an enlarged, non-homogeneous right ovary with multiple cystic structures. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Ovarian torsion",
+                "is_correct": true,
+                "explanation": "Ovarian torsion presents with abrupt-onset severe lower abdominal pain, tenderness, and an enlarged ovary on imaging.",
+                "id": "b31cd71c-ef8b-446e-b1ff-821b42377b15"
+            },
+            {
+                "alpha": "B",
+                "text": "Endometriosis",
+                "is_correct": false,
+                "explanation": "Endometriosis typically presents with dysmenorrhea, cyclic pelvic pain, and can cause infertility but does not present with acute severe pain.",
+                "id": "1cfc5b2a-f3ef-4b57-9785-d63e670f1924"
+            },
+            {
+                "alpha": "C",
+                "text": "Polycystic ovary syndrome (PCOS)",
+                "is_correct": false,
+                "explanation": "PCOS is characterized by chronic anovulation, irregular menstrual cycles, hirsutism, and polycystic appearing ovaries on imaging.",
+                "id": "a6ea4f9b-b9a4-41d0-b71b-d837e46470f5"
+            },
+            {
+                "alpha": "D",
+                "text": "Ovarian cyst rupture",
+                "is_correct": false,
+                "explanation": "Ovarian cyst rupture may cause sudden sharp abdominal pain, but it does not typically present with an enlarged ovary on imaging.",
+                "id": "e2c3f26c-674b-4cd8-b55b-12b28abb09af"
+            }
+        ],
+        "type": "amc",
+        "field": "Obstetrics and Gynecology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Ovarian torsion",
+            "is_correct": true,
+            "explanation": "Ovarian torsion presents with abrupt-onset severe lower abdominal pain, tenderness, and an enlarged ovary on imaging.",
+            "id": "b31cd71c-ef8b-446e-b1ff-821b42377b15"
+        }
+    },
+    {
+        "text": "A 55-year-old male presents with recurrent episodes of severe right upper quadrant abdominal pain, nausea, and vomiting. The pain is often triggered by a fatty meal. On physical examination, there is tenderness in the right upper quadrant. Laboratory tests show elevated liver enzymes. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Gallstone pancreatitis",
+                "is_correct": true,
+                "explanation": "Recurrent episodes of severe right upper quadrant abdominal pain triggered by fatty meals, along with elevated liver enzymes, suggest gallstone pancreatitis.",
+                "id": "802c0e35-9594-4686-9fe4-b90a1c799978"
+            },
+            {
+                "alpha": "B",
+                "text": "Diverticulitis",
+                "is_correct": false,
+                "explanation": "Diverticulitis typically presents with left lower quadrant abdominal pain, fever, and leukocytosis, and is less likely in this patient with right upper quadrant pain.",
+                "id": "4cdf126e-6fc7-4da8-9ec2-b4ccf7d21a96"
+            },
+            {
+                "alpha": "C",
+                "text": "Acute cholecystitis",
+                "is_correct": false,
+                "explanation": "Acute cholecystitis presents with severe right upper quadrant abdominal pain, fever, and localized tenderness, but the absence of gallstones on imaging makes it less likely.",
+                "id": "92fd1873-fa63-4c24-ba7a-9be9de95b456"
+            },
+            {
+                "alpha": "D",
+                "text": "Peptic ulcer disease",
+                "is_correct": false,
+                "explanation": "Peptic ulcer disease typically presents with epigastric pain that is relieved by food intake or antacids and is less likely to manifest as right upper quadrant pain.",
+                "id": "39fec664-8306-4e3f-952e-f4e9c1faa448"
+            }
+        ],
+        "type": "amc",
+        "field": "Gastroenterology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Gallstone pancreatitis",
+            "is_correct": true,
+            "explanation": "Recurrent episodes of severe right upper quadrant abdominal pain triggered by fatty meals, along with elevated liver enzymes, suggest gallstone pancreatitis.",
+            "id": "802c0e35-9594-4686-9fe4-b90a1c799978"
+        }
+    },
+    {
+        "text": "A 65-year-old female presents with sudden-onset severe chest pain that radiates to the left arm. She also experiences shortness of breath and diaphoresis. She has a history of hypertension and hyperlipidemia. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute myocardial infarction",
+                "is_correct": true,
+                "explanation": "Sudden-onset severe chest pain that radiates to the left arm, along with shortness of breath and diaphoresis, is highly suggestive of an acute myocardial infarction.",
+                "id": "b0b3dc15-b3c6-402d-9da4-d55148ceea20"
+            },
+            {
+                "alpha": "B",
+                "text": "Pulmonary embolism",
+                "is_correct": false,
+                "explanation": "Pulmonary embolism typically presents with sudden-onset pleuritic chest pain, dyspnea, and sometimes hemoptysis, but does not typically radiate to the arm.",
+                "id": "1d42379a-c4b3-4e1c-9adc-8b016bd5d0ee"
+            },
+            {
+                "alpha": "C",
+                "text": "Acute pericarditis",
+                "is_correct": false,
+                "explanation": "Acute pericarditis presents with sharp, pleuritic chest pain that is worsened by inspiration and relieved by sitting forward, and it does not typically radiate to the arm.",
+                "id": "cb0ae366-2b36-4160-b798-3aa7daed6828"
+            },
+            {
+                "alpha": "D",
+                "text": "Aortic dissection",
+                "is_correct": false,
+                "explanation": "Aortic dissection presents with severe tearing or ripping chest pain that can radiate to the back, and it is not typically associated with arm radiation.",
+                "id": "4b2ae681-557a-4753-8d9e-13b4be4996a0"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Acute myocardial infarction",
+            "is_correct": true,
+            "explanation": "Sudden-onset severe chest pain that radiates to the left arm, along with shortness of breath and diaphoresis, is highly suggestive of an acute myocardial infarction.",
+            "id": "b0b3dc15-b3c6-402d-9da4-d55148ceea20"
+        }
+    },
+    {
+        "text": "A 28-year-old female presents with a painful, erythematous rash on her face. The rash is limited to the cheeks and bridge of the nose, sparing the nasolabial folds. On examination, there are no oral ulcers or hair loss. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Rosacea",
+                "is_correct": false,
+                "explanation": "Rosacea typically presents with flushing, persistent erythema, papules, and telangiectasia, and does not spare the nasolabial folds.",
+                "id": "f0bb0ac3-1d6d-4f0e-bd18-d3eac1258cc0"
+            },
+            {
+                "alpha": "B",
+                "text": "Lupus erythematosus",
+                "is_correct": true,
+                "explanation": "Lupus erythematosus presents with a classic malar rash that spares the nasolabial folds, along with other systemic features like oral ulcers and hair loss.",
+                "id": "6905954d-b997-4abe-8344-b9fc80ab9a38"
+            },
+            {
+                "alpha": "C",
+                "text": "Seborrheic dermatitis",
+                "is_correct": false,
+                "explanation": "Seborrheic dermatitis presents with erythematous, greasy scales and plaques on the scalp, face, and other seborrheic areas, and does not typically spare the nasolabial folds.",
+                "id": "871d79c5-c11b-4277-a941-34ef830eb3a8"
+            },
+            {
+                "alpha": "D",
+                "text": "Contact dermatitis",
+                "is_correct": false,
+                "explanation": "Contact dermatitis presents with a localized inflammatory rash that occurs after exposure to an allergen or irritant, and the distribution does not typically spare the nasolabial folds.",
+                "id": "fd2380d1-72b4-48d0-ad91-69d2443ad842"
+            }
+        ],
+        "type": "amc",
+        "field": "Dermatology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Lupus erythematosus",
+            "is_correct": true,
+            "explanation": "Lupus erythematosus presents with a classic malar rash that spares the nasolabial folds, along with other systemic features like oral ulcers and hair loss.",
+            "id": "6905954d-b997-4abe-8344-b9fc80ab9a38"
+        }
+    },
+    {
+        "text": "A 65-year-old male presents with sudden-onset severe chest pain radiating to the back. He appears diaphoretic and has a blood pressure of 80/40 mmHg. An electrocardiogram (ECG) shows ST-segment elevation in leads II, III, and aVF. Which of the following is the most appropriate initial management for this patient?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Administration of aspirin",
+                "is_correct": true,
+                "explanation": "Administration of aspirin is the most appropriate initial management in a suspected case of acute myocardial infarction, as it helps reduce platelet aggregation and decrease the risk of thrombus formation.",
+                "id": "311ae03e-28ba-45a1-a77a-8835fca7c60f"
+            },
+            {
+                "alpha": "B",
+                "text": "Immediate percutaneous coronary intervention (PCI)",
+                "is_correct": false,
+                "explanation": "Immediate percutaneous coronary intervention (PCI) is a definitive treatment for acute myocardial infarction. However, in this scenario, the patient is hemodynamically unstable, and administration of aspirin should be the initial step before considering invasive interventions.",
+                "id": "74a96711-af21-4cf9-bde0-8421c4ce0bf6"
+            },
+            {
+                "alpha": "C",
+                "text": "Intravenous nitroglycerin infusion",
+                "is_correct": false,
+                "explanation": "Intravenous nitroglycerin infusion can be considered for pain relief in acute coronary syndrome. However, the patient's hemodynamic instability and ST-segment elevation on ECG necessitate immediate administration of aspirin.",
+                "id": "513696d5-d42b-4680-b09c-7dacf6c7bc14"
+            },
+            {
+                "alpha": "D",
+                "text": "Immediate defibrillation",
+                "is_correct": false,
+                "explanation": "Immediate defibrillation is indicated for patients with ventricular fibrillation or pulseless ventricular tachycardia. In this scenario, the patient's blood pressure is still measurable, and the findings suggest acute myocardial infarction rather than a shockable rhythm.",
+                "id": "e340a4ff-a23e-4be6-914f-79f9e2ece87f"
+            }
+        ],
+        "type": "amc",
+        "field": "Cardiology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Administration of aspirin",
+            "is_correct": true,
+            "explanation": "Administration of aspirin is the most appropriate initial management in a suspected case of acute myocardial infarction, as it helps reduce platelet aggregation and decrease the risk of thrombus formation.",
+            "id": "311ae03e-28ba-45a1-a77a-8835fca7c60f"
+        }
+    },
+    {
+        "text": "A 30-year-old man presents with severe abdominal pain radiating to the back. He reports a history of heavy alcohol use. On physical examination, there is epigastric tenderness and decreased bowel sounds. Laboratory tests show elevated serum lipase and amylase levels. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Gastric ulcer",
+                "is_correct": false,
+                "explanation": "Gastric ulcers typically present with pain aggravated by food and relieved by antacids.",
+                "id": "90a4377d-977d-401a-9ace-1816bed1dc58"
+            },
+            {
+                "alpha": "B",
+                "text": "Pancreatitis",
+                "is_correct": true,
+                "explanation": "Pancreatitis presents with severe abdominal pain radiating to the back and elevated serum lipase and amylase levels.",
+                "id": "4f553e27-0339-42e6-9e1c-61a7f3e67df5"
+            },
+            {
+                "alpha": "C",
+                "text": "Gallstones",
+                "is_correct": false,
+                "explanation": "Gallstones may cause biliary colic, but they do not typically present with elevated lipase and amylase levels.",
+                "id": "d351f790-92d6-4346-8740-3271d942d956"
+            },
+            {
+                "alpha": "D",
+                "text": "Acute cholecystitis",
+                "is_correct": false,
+                "explanation": "Acute cholecystitis presents with right upper quadrant pain, not severe abdominal pain radiating to the back.",
+                "id": "95ab7479-abb3-47d4-8e58-1bd9025f583a"
+            }
+        ],
+        "type": "amc",
+        "field": "Gastroenterology",
+        "correct_option": {
+            "alpha": "B",
+            "text": "Pancreatitis",
+            "is_correct": true,
+            "explanation": "Pancreatitis presents with severe abdominal pain radiating to the back and elevated serum lipase and amylase levels.",
+            "id": "4f553e27-0339-42e6-9e1c-61a7f3e67df5"
+        }
+    },
+    {
+        "text": "A 28-year-old female presents with a history of chronic nasal congestion, facial pain, and pressure. She also complains of a yellowish nasal discharge that worsens when she bends forward. On physical examination, her nasal mucosa is erythematous and edematous, and she has tenderness to palpation over the sinuses. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Acute sinusitis",
+                "is_correct": true,
+                "explanation": "Acute sinusitis typically presents with symptoms of nasal congestion, facial pain, pressure, and purulent nasal discharge. The pain may worsen when bending forward due to increased pressure within the sinuses.",
+                "id": "92caf445-c358-43f1-be48-c894d3d3265a"
+            },
+            {
+                "alpha": "B",
+                "text": "Allergic rhinitis",
+                "is_correct": false,
+                "explanation": "Allergic rhinitis commonly presents with symptoms of nasal congestion, rhinorrhea, and sneezing. It is usually not associated with facial pain or pressure.",
+                "id": "2f1b5335-4d52-4b51-b4fb-790b79720953"
+            },
+            {
+                "alpha": "C",
+                "text": "Nasal polyps",
+                "is_correct": false,
+                "explanation": "Nasal polyps typically present with symptoms of nasal obstruction, decreased sense of smell, and recurrent sinus infections. They do not cause facial pain or pressure.",
+                "id": "025627b1-2fa3-462b-bec2-56de30c8324d"
+            },
+            {
+                "alpha": "D",
+                "text": "Deviated nasal septum",
+                "is_correct": false,
+                "explanation": "A deviated nasal septum may cause symptoms of nasal congestion and obstructive sleep apnea. It is not typically associated with facial pain or purulent discharge.",
+                "id": "cc4d8e2a-4f49-4151-b5f9-e1ab09989589"
+            }
+        ],
+        "type": "amc",
+        "field": "Medicine",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Acute sinusitis",
+            "is_correct": true,
+            "explanation": "Acute sinusitis typically presents with symptoms of nasal congestion, facial pain, pressure, and purulent nasal discharge. The pain may worsen when bending forward due to increased pressure within the sinuses.",
+            "id": "92caf445-c358-43f1-be48-c894d3d3265a"
+        },
+        "available": true,
+        "demo": false,
+        "created_at": "1707202795.324773",
+        "updated_at": "1707202795.324784"
+    },
+    {
+        "text": "A 62-year-old male presents with painless, progressive blurring of vision in both eyes over the past few months. On examination, visual acuity is decreased and there is bilateral optic disc swelling with flame-shaped hemorrhages. What is the most likely diagnosis?",
+        "options": [
+            {
+                "alpha": "A",
+                "text": "Non-arteritic ischemic optic neuropathy",
+                "is_correct": true,
+                "explanation": "Non-arteritic ischemic optic neuropathy (NAION) typically occurs in older individuals and presents with painless, progressive blurring of vision. On examination, there is bilateral optic disc swelling with flame-shaped hemorrhages.",
+                "id": "ec76f94d-7395-4125-a1a2-2b8fd7ffc444"
+            },
+            {
+                "alpha": "B",
+                "text": "Open-angle glaucoma",
+                "is_correct": false,
+                "explanation": "Open-angle glaucoma usually presents with gradual peripheral vision loss and elevated intraocular pressure. Optic disc swelling and hemorrhages are not common findings.",
+                "id": "5bb4feca-4549-4a93-b8ac-01169ff560ec"
+            },
+            {
+                "alpha": "C",
+                "text": "Age-related macular degeneration",
+                "is_correct": false,
+                "explanation": "Age-related macular degeneration typically presents with central vision loss and drusen deposition in the macula. Optic disc swelling and hemorrhages are not characteristic features.",
+                "id": "a36b47a1-db9b-4690-93f2-35daf10e5b9d"
+            },
+            {
+                "alpha": "D",
+                "text": "Central retinal artery occlusion",
+                "is_correct": false,
+                "explanation": "Central retinal artery occlusion presents with sudden painless vision loss, a cherry-red spot on the macula, and a pale optic disc. Optic disc swelling and hemorrhages are not usually seen.",
+                "id": "b86c3142-aafb-4dd3-b430-36c3adcf43a6"
+            }
+        ],
+        "type": "amc",
+        "field": "Ophthalmology",
+        "correct_option": {
+            "alpha": "A",
+            "text": "Non-arteritic ischemic optic neuropathy",
+            "is_correct": true,
+            "explanation": "Non-arteritic ischemic optic neuropathy (NAION) typically occurs in older individuals and presents with painless, progressive blurring of vision. On examination, there is bilateral optic disc swelling with flame-shaped hemorrhages.",
+            "id": "ec76f94d-7395-4125-a1a2-2b8fd7ffc444"
+        },
+        "available": true,
+        "demo": false,
+        "created_at": "1707202892.486374",
+        "updated_at": "1707202892.4863842"
+    }
+]
